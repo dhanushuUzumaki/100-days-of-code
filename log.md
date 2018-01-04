@@ -8,3 +8,11 @@
 **Thoughts**: Since this was my first shell script, learned a lot and had a lot of fun. 
 
 **Link To Work**: [100-days-of-code-logger](https://github.com/dhanushuUzumaki/100-days-of-code-logger)
+
+
+### Day 2: Jan-04-18 Thursday 
+**Today's Progress**: In choices app, implemented add option functionality. Refactoring is required. 
+
+**Thoughts**: Getting the modal like I wanted was quite difficult still haven't achieved it. Should also allow users to exit the modal using the back button. 
+
+**Link To Work**: [Choices](https://github.com/dhanushuUzumaki/choices)
