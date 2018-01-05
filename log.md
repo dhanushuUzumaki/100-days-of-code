@@ -16,3 +16,11 @@
 **Thoughts**: Getting the modal like I wanted was quite difficult still haven't achieved it. Should also allow users to exit the modal using the back button. 
 
 **Link To Work**: [Choices](https://github.com/dhanushuUzumaki/choices)
+
+
+### Day 3: Jan-05-18 Friday 
+**Today's Progress**: Implemented functionality to delete an option in choices app. 
+
+**Thoughts**: As usual styling was difficult but somehow got it working. Refactoring is required. 
+
+**Link To Work**: [Choices](https://github.com/dhanushuUzumaki/choices)
