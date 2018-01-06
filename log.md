@@ -24,3 +24,11 @@
 **Thoughts**: As usual styling was difficult but somehow got it working. Refactoring is required. 
 
 **Link To Work**: [Choices](https://github.com/dhanushuUzumaki/choices)
+
+
+### Day 4: Jan-06-18 Saturday 
+**Today's Progress**: Added back button and icon to choices app. Published it on google play store. 
+
+**Thoughts**: Publishing was cumbersome there were a lot of things to be done but it's a great experience. Not sure if I have done everything correctly. Tested it only on emulators and one nougat device. Hope it works. Fingers crossed. 
+
+**Link To Work**: [Choices](https://github.com/dhanushuUzumaki/choices)
