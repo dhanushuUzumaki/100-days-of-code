@@ -32,3 +32,11 @@
 **Thoughts**: Publishing was cumbersome there were a lot of things to be done but it's a great experience. Not sure if I have done everything correctly. Tested it only on emulators and one nougat device. Hope it works. Fingers crossed. 
 
 **Link To Work**: [Choices](https://github.com/dhanushuUzumaki/choices)
+
+
+### Day 5: Jan-07-18 
+**Today's Progress**: Only after pushing the Choices app to production I realised I haven't tested the production build. It seems like RN has some issues with production build and app crashes immediately after launch. It's primarily because of View.PropTypes but I am unable to find any occurance of it. Spent a lot of time on it but still haven't found the solution. Working on it. 
+
+**Thoughts**: I tried grep-ing the node-modules but no results were found.. I am going to try all the methods proposed in the RN issue comments. 
+
+**Link To Work**: [Choices - Issue - Production Build Fails](https://github.com/dhanushuUzumaki/choices/issues/5)
