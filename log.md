@@ -40,3 +40,11 @@
 **Thoughts**: I tried grep-ing the node-modules but no results were found.. I am going to try all the methods proposed in the RN issue comments. 
 
 **Link To Work**: [Choices - Issue - Production Build Fails](https://github.com/dhanushuUzumaki/choices/issues/5)
+
+
+### Day 6: Jan-08-18 Monday 
+**Today's Progress**: Got the app published successfully. Had to downgrade to RN 0.45.1 to solve the issue. 
+
+**Thoughts**: Downgrading was a bit tricky. But did it. The app is simple but it feels really good. 
+
+**Link To Work**: [Choices - Google Play](https://play.google.com/store/apps/details?id=com.choices)
