@@ -48,3 +48,11 @@
 **Thoughts**: Downgrading was a bit tricky. But did it. The app is simple but it feels really good. 
 
 **Link To Work**: [Choices - Google Play](https://play.google.com/store/apps/details?id=com.choices)
+
+
+### Day 7: Jan-09-18 Tuesday 
+**Today's Progress**: Started off with FreeCodeCamp's React Project Markdown Previewer. 
+
+**Thoughts**: Wanted to set up my own build configs but I also wanted to try out create-react-app so did that for this one. Just changed some styles. Hoping to complete it tomorrow. 
+
+**Link To Work**: [FCCReactProjects](https://github.com/dhanushuUzumaki/FCCReactProjects)
