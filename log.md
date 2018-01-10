@@ -56,3 +56,11 @@
 **Thoughts**: Wanted to set up my own build configs but I also wanted to try out create-react-app so did that for this one. Just changed some styles. Hoping to complete it tomorrow. 
 
 **Link To Work**: [FCCReactProjects](https://github.com/dhanushuUzumaki/FCCReactProjects)
+
+
+### Day 8: Jan-10-18 Wednesday 
+**Today's Progress**: Worked on the markdown previewer. Made the functionality working but having textarea is causing some issues. Should work on fixing that. 
+
+**Thoughts**: On using textarea it gets modified because of grammarly. As a workaround tried conteneditable div but that is not capturing new lines so markdown is not being rendered properly. Should use textarea and fix that grammarly issue. 
+
+**Link To Work**: [Markdown Previewer](https://github.com/dhanushuUzumaki/FCCReactProjects)
