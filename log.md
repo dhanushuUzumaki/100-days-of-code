@@ -64,3 +64,11 @@
 **Thoughts**: On using textarea it gets modified because of grammarly. As a workaround tried conteneditable div but that is not capturing new lines so markdown is not being rendered properly. Should use textarea and fix that grammarly issue. 
 
 **Link To Work**: [Markdown Previewer](https://github.com/dhanushuUzumaki/FCCReactProjects)
+
+
+### Day 9: Jan-11-18 Thursday 
+**Today's Progress**: Completed the markdown previewer. 
+
+**Thoughts**: Fixed the grammarly issue with a data-attribute. I like the look and feel of the app but not so sure about users. Should put it in a github page and hope for the best. 
+
+**Link To Work**: [MarkDownPreviewer](https://github.com/dhanushuUzumaki/FCCReactProjects)
