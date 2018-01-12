@@ -72,3 +72,11 @@
 **Thoughts**: Fixed the grammarly issue with a data-attribute. I like the look and feel of the app but not so sure about users. Should put it in a github page and hope for the best. 
 
 **Link To Work**: [MarkDownPreviewer](https://github.com/dhanushuUzumaki/FCCReactProjects)
+
+
+### Day 10: Jan-12-18 Friday 
+**Today's Progress**: Added favicon and deployed md previewer in gh page. 
+
+**Thoughts**: I initially tried to have all the projects in a single repo and have apps inside it but i was unable to achieve it using gh pages so now md previewer has its own repo. 
+
+**Link To Work**: [Markdown Previewer](https://dhanushuuzumaki.github.io/markdown_previewer/)
