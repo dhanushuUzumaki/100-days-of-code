@@ -80,3 +80,11 @@
 **Thoughts**: I initially tried to have all the projects in a single repo and have apps inside it but i was unable to achieve it using gh pages so now md previewer has its own repo. 
 
 **Link To Work**: [Markdown Previewer](https://dhanushuuzumaki.github.io/markdown_previewer/)
+
+
+### Day 11: Jan-13-18 Saturday 
+**Today's Progress**: Created a repo for fcc camper leaderboard. Worked on setting up webpack. 
+
+**Thoughts**: This is the first time I understood and set up my own webpack.config. Still have to add HMR to it. 
+
+**Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
