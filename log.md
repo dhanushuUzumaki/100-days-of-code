@@ -88,3 +88,11 @@
 **Thoughts**: This is the first time I understood and set up my own webpack.config. Still have to add HMR to it. 
 
 **Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
+
+
+### Day 12: Jan-14-18 
+**Today's Progress**: Added HMR and linting to the camper leaderboard project and made a yeoman generator out of it. 
+
+**Thoughts**: Learned how yeoman works and hoping to enchance the generator going forward. 
+
+**Link To Work**: [Generator Uzumaki](https://github.com/dhanushuUzumaki/generator-uzumaki)
