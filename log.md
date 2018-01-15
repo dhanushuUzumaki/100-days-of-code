@@ -96,3 +96,11 @@
 **Thoughts**: Learned how yeoman works and hoping to enchance the generator going forward. 
 
 **Link To Work**: [Generator Uzumaki](https://github.com/dhanushuUzumaki/generator-uzumaki)
+
+
+### Day 13: Jan-15-18 Monday 
+**Today's Progress**: Worked on the camper_leaderboard. Added loader and fetching data. 
+
+**Thoughts**: Learned some nice css-tricks ;) 
+
+**Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
