@@ -104,3 +104,11 @@
 **Thoughts**: Learned some nice css-tricks ;) 
 
 **Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
+
+
+### Day 14: Jan-16-18 Tuesday 
+**Today's Progress**: Worked on camper leaderboard. Tried out several data-grids but wound up using custom table and css. Functionality is done. Its pretty much responsive but still needs some work. 
+
+**Thoughts**: Learned quite a few css tricks and have been facing some issue with hot reloading but not sure what is causing it should look into it if happens again. 
+
+**Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
