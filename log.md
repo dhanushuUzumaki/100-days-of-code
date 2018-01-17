@@ -112,3 +112,11 @@
 **Thoughts**: Learned quite a few css tricks and have been facing some issue with hot reloading but not sure what is causing it should look into it if happens again. 
 
 **Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
+
+
+### Day 15: Jan-17-18 Wednesday 
+**Today's Progress**: Completed camper_leaderboard 
+
+**Thoughts**: Learned how to make table responsive. 
+
+**Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
