@@ -120,3 +120,9 @@
 **Thoughts**: Learned how to make table responsive. 
 
 **Link To Work**: [Camper Leaderboard](https://github.com/dhanushuUzumaki/camper_leaderboard)
+
+
+### Day 16: Jan-18-18 Thursday 
+**Today's Progress**: Started with recipie box but haven't made much progress. Was looking into serveral components. Added favicon to camper leaderboard and webpack copy plugin. 
+
+**Thoughts**: Should add the copy plugin to the generator also. Thinking of not using any components and write my own. Hope I can learn a little more this way.
