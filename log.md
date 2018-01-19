@@ -126,3 +126,11 @@
 **Today's Progress**: Started with recipie box but haven't made much progress. Was looking into serveral components. Added favicon to camper leaderboard and webpack copy plugin. 
 
 **Thoughts**: Should add the copy plugin to the generator also. Thinking of not using any components and write my own. Hope I can learn a little more this way.
+
+
+### Day 17: Jan-19-18 Friday 
+**Today's Progress**: Worked on modifying generator-uzumaki. Read about composablity in yeoman and moved the earlier one into react-basic sub generator. 
+
+**Thoughts**: Should work on other variations also currently planning on react-basic (completed), react-router, react-router-redux. 
+
+**Link To Work**: [generator-uzumaki](https://github.com/dhanushuUzumaki/generator-uzumaki)
