@@ -134,3 +134,9 @@
 **Thoughts**: Should work on other variations also currently planning on react-basic (completed), react-router, react-router-redux. 
 
 **Link To Work**: [generator-uzumaki](https://github.com/dhanushuUzumaki/generator-uzumaki)
+
+
+### Day 18: Jan-20-18 Saturday 
+**Today's Progress**: Added static file copying to basic generator. 
+
+**Thoughts**: Tried adding router but facing some issues. Should work on that tomorrow.
