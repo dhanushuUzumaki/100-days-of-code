@@ -140,3 +140,11 @@
 **Today's Progress**: Added static file copying to basic generator. 
 
 **Thoughts**: Tried adding router but facing some issues. Should work on that tomorrow.
+
+
+### Day 19: Jan-21-18 
+**Today's Progress**: Added react-router scaffolding to the generator. 
+
+**Thoughts**: Since the routing needs the js file to be loaded initially any reloads will fail. 
+
+**Link To Work**: [SO answer regarding this issue](https://stackoverflow.com/a/36623117/6599083)
