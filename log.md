@@ -148,3 +148,11 @@
 **Thoughts**: Since the routing needs the js file to be loaded initially any reloads will fail. 
 
 **Link To Work**: [SO answer regarding this issue](https://stackoverflow.com/a/36623117/6599083)
+
+
+### Day 20: Jan-22-18 Monday 
+**Today's Progress**: Wrapped up react-router scaffolding and published the package. 
+
+**Thoughts**: The issue I have been facing is the expected behaviour. So added help notes to the generator which will show up once the installation is done. 
+
+**Link To Work**: [generator-uzumaki](https://github.com/dhanushuUzumaki/generator-uzumaki)
