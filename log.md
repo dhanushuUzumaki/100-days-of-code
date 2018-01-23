@@ -156,3 +156,11 @@
 **Thoughts**: The issue I have been facing is the expected behaviour. So added help notes to the generator which will show up once the installation is done. 
 
 **Link To Work**: [generator-uzumaki](https://github.com/dhanushuUzumaki/generator-uzumaki)
+
+
+### Day 21: Jan-23-18 Tuesday 
+**Today's Progress**: Finally figured how to add multiple keywords in the generator. And wrote basic test case for both subgenerators. 
+
+**Thoughts**: Due to this learned some ejs syntax and understood diference between jest and mocha. Landed an article about airbnb migrating from mocha to jest which was a good read. 
+
+**Link To Work**: [Unlocking Test Performance — Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50)
