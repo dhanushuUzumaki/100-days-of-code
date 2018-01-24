@@ -164,3 +164,9 @@
 **Thoughts**: Due to this learned some ejs syntax and understood diference between jest and mocha. Landed an article about airbnb migrating from mocha to jest which was a good read. 
 
 **Link To Work**: [Unlocking Test Performance — Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50)
+
+
+### Day 22: Jan-24-18 Wednesday 
+**Today's Progress**: Started with the recipe box. But actually worked on a starter page for the generator. 
+
+**Thoughts**: Currently used an image but the scaling of it is not so good. So thinking of moving to a text based approach.
