@@ -170,3 +170,9 @@
 **Today's Progress**: Started with the recipe box. But actually worked on a starter page for the generator. 
 
 **Thoughts**: Currently used an image but the scaling of it is not so good. So thinking of moving to a text based approach.
+
+
+### Day 22: Jan-24-18 Wednesday 
+**Today's Progress**: Started with the recipe box. But actually worked on a starter page for the generator. 
+
+**Thoughts**: Currently used an image but the scaling of it is not so good. So thinking of moving to a text based approach.
