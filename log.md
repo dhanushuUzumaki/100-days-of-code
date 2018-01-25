@@ -176,3 +176,11 @@
 **Today's Progress**: Started with the recipe box. But actually worked on a starter page for the generator. 
 
 **Thoughts**: Currently used an image but the scaling of it is not so good. So thinking of moving to a text based approach.
+
+
+### Day 23: Jan-25-18 Thursday 
+**Today's Progress**: Worked on the recipe box. Create an accordion component and added styles to it. It is just html with hide and show functionality for now. 
+
+**Thoughts**: Earlier something like this would have been a daunting task for me. Now even though it's not perfect I was able to make something really quick. So I'm happy in that aspect. 
+
+**Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
