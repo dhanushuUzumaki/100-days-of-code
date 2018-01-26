@@ -177,3 +177,11 @@
 **Thoughts**: Earlier something like this would have been a daunting task for me. Now even though it's not perfect I was able to make something really quick. So I'm happy in that aspect. 
 
 **Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
+
+
+### Day 24: Jan-26-18 Friday 
+**Today's Progress**: Worked on recipe box. Added Material desing button to add recipie. 
+
+**Thoughts**: Learned a little about material design. 
+
+**Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
