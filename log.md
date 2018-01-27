@@ -185,3 +185,11 @@
 **Thoughts**: Learned a little about material design. 
 
 **Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
+
+
+### Day 25: Jan-27-18 Saturday 
+**Today's Progress**: Worked on recipe-box modal component. Made a simple component but unable to make it more accessible like close modal when esc is pressed and such. 
+
+**Thoughts**: While using prebuilt components never even thought about how these things are being done. Having so much fun. 
+
+**Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
