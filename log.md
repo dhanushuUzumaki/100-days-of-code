@@ -193,3 +193,9 @@
 **Thoughts**: While using prebuilt components never even thought about how these things are being done. Having so much fun. 
 
 **Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
+
+
+### Day 26: Jan-28-18 Sunday 
+**Today's Progress**: Fixed the sunday not entered issue on logger. Was looking into several modal components as to how they were designed. 
+
+**Thoughts**: The keyUp functionality is not working as I expected. Should find out what I am doing wrong.
