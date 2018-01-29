@@ -199,3 +199,11 @@
 **Today's Progress**: Fixed the sunday not entered issue on logger. Was looking into several modal components as to how they were designed. 
 
 **Thoughts**: The keyUp functionality is not working as I expected. Should find out what I am doing wrong.
+
+
+### Day 27: Jan-29-18 Monday 
+**Today's Progress**: Wrapped up the breadcrumb PR in freecodecamp guides. Hope it gets merged today. Apart from that got some nice info on accessiblity of the modal. 
+
+**Thoughts**: My keyup listened was not working because it was on the modal.. If it's attached to the document, then it will be captured for sure. 
+
+**Link To Work**: [Added Breadcrumbs to search results #751](https://github.com/freeCodeCamp/guides/pull/751)
