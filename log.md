@@ -207,3 +207,11 @@
 **Thoughts**: My keyup listened was not working because it was on the modal.. If it's attached to the document, then it will be captured for sure. 
 
 **Link To Work**: [Added Breadcrumbs to search results #751](https://github.com/freeCodeCamp/guides/pull/751)
+
+
+### Day 28: Jan-30-18 Tuesday 
+**Today's Progress**: Worked on the modal component. Made it accessible. Tried out some animations for opening accordion. 
+
+**Thoughts**: Was trying different things with transition property, then one stackoverflow answer mentioned animation that's when I realized I forgot it all along. But still the question of whether the animation is necessary is a mystery. 
+
+**Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
