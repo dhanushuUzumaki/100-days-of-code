@@ -215,3 +215,11 @@
 **Thoughts**: Was trying different things with transition property, then one stackoverflow answer mentioned animation that's when I realized I forgot it all along. But still the question of whether the animation is necessary is a mystery. 
 
 **Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
+
+
+### Day 29: Jan-31-18 Wednesday 
+**Today's Progress**: Started with the input component but having some issue. 
+
+**Thoughts**: When I use the "value" as a prop name, nothing is being rendered. 
+
+**Link To Work**: [StackOverflow Question](https://stackoverflow.com/questions/48544584/having-a-prop-named-value-stops-rendering)
