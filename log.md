@@ -223,3 +223,11 @@
 **Thoughts**: When I use the "value" as a prop name, nothing is being rendered. 
 
 **Link To Work**: [StackOverflow Question](https://stackoverflow.com/questions/48544584/having-a-prop-named-value-stops-rendering)
+
+
+### Day 30: Feb-01-18 Thursday 
+**Today's Progress**: fixed the broken breadcrumbs issue in fcc guides and the input issue in recipe box. 
+
+**Thoughts**: The input issue was because of my stypid mistake. I set the state to a string instead of an abject. 
+
+**Link To Work**: [Fix #8028 Broken Breadcrumbs](https://github.com/freeCodeCamp/guides/pull/8042)
