@@ -231,3 +231,11 @@
 **Thoughts**: The input issue was because of my stypid mistake. I set the state to a string instead of an abject. 
 
 **Link To Work**: [Fix #8028 Broken Breadcrumbs](https://github.com/freeCodeCamp/guides/pull/8042)
+
+
+### Day 31: Feb-02-18 Friday 
+**Today's Progress**: Worked on recipe box. Styled input and textarea components but I don't think what I am doing is the right way to do these. 
+
+**Thoughts**: In chrome mobile view input and textarea are styled but when I open it in my mobile it is not. Should look into it. 
+
+**Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
