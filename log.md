@@ -239,3 +239,9 @@
 **Thoughts**: In chrome mobile view input and textarea are styled but when I open it in my mobile it is not. Should look into it. 
 
 **Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
+
+
+### Day 32: Feb-03-18 Saturday 
+**Today's Progress**: Was working on the css thing from yesterday. Read some new cool stuff and tried them but I wasn't able to find the cause. 
+
+**Thoughts**: There are a lot of things in html and css itself that can be done to improve page load time and here I was thinking it's mainly related to JS alone. Leason Learned :)
