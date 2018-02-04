@@ -245,3 +245,9 @@
 **Today's Progress**: Was working on the css thing from yesterday. Read some new cool stuff and tried them but I wasn't able to find the cause. 
 
 **Thoughts**: There are a lot of things in html and css itself that can be done to improve page load time and here I was thinking it's mainly related to JS alone. Leason Learned :)
+
+
+### Day 33: Feb-04-18 Sunday 
+**Today's Progress**: Was looking into AWS. Played a little around IAM and S3. There are way too many services in AWS. 
+
+**Thoughts**: Trying to learn more about EC2 and cloud formation scripts and architecting infrastructure.
