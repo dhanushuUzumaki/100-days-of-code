@@ -251,3 +251,11 @@
 **Today's Progress**: Was looking into AWS. Played a little around IAM and S3. There are way too many services in AWS. 
 
 **Thoughts**: Trying to learn more about EC2 and cloud formation scripts and architecting infrastructure.
+
+
+### Day 34: Feb-05-18 Monday 
+**Today's Progress**: Worked on recipe box. Completed till adding recipies, and interacting with local storage. 
+
+**Thoughts**: Should work on editing and deleting recipies which I hope will be relatively simple since all the ground work has already been done. Hoping to complete it by tomorrow. 
+
+**Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
