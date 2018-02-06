@@ -259,3 +259,11 @@
 **Thoughts**: Should work on editing and deleting recipies which I hope will be relatively simple since all the ground work has already been done. Hoping to complete it by tomorrow. 
 
 **Link To Work**: [Recipe Box](https://github.com/dhanushuUzumaki/recipe-box)
+
+
+### Day 35: Feb-06-18 Tuesday 
+**Today's Progress**: Have a working version of recipe box. 
+
+**Thoughts**: As I thought completing the remaining pieces of the recipe box was quite easy. Next is Game of life. So excited. 
+
+**Link To Work**: [Recipe Box](https://dhanushuuzumaki.github.io/recipe-box/public/)
