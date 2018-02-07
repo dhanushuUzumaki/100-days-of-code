@@ -267,3 +267,9 @@
 **Thoughts**: As I thought completing the remaining pieces of the recipe box was quite easy. Next is Game of life. So excited. 
 
 **Link To Work**: [Recipe Box](https://dhanushuuzumaki.github.io/recipe-box/public/)
+
+
+### Day 36: Feb-07-18 Wednesday 
+**Today's Progress**: Played around with S3 and aws cli. 
+
+**Thoughts**: Got to learn a lot of new things. Following acloud guru's videos.
