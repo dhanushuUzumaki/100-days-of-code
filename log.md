@@ -273,3 +273,9 @@
 **Today's Progress**: Played around with S3 and aws cli. 
 
 **Thoughts**: Got to learn a lot of new things. Following acloud guru's videos.
+
+
+### Day 37: Feb-08-18 Thursday 
+**Today's Progress**: Started off with game of life as part of freecodecamp's react project. 
+
+**Thoughts**: I understood how it works but not sure about what makes it so special, trying to figure those things out. Planned for a lot of features for this. So, should plan and do things step by step.
