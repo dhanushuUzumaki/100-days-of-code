@@ -279,3 +279,11 @@
 **Today's Progress**: Started off with game of life as part of freecodecamp's react project. 
 
 **Thoughts**: I understood how it works but not sure about what makes it so special, trying to figure those things out. Planned for a lot of features for this. So, should plan and do things step by step.
+
+
+### Day 38: Feb-09-18 Friday 
+**Today's Progress**: Worked on game-of-life. First time played around with svg and made a grid with event handling (this is not a big thing.. just saying ;) ) 
+
+**Thoughts**: Never gave SVG a try and was in a belief that it was difficult... but it doesn't seem so. Maybe Should explore it more before coming to conclusion. 
+
+**Link To Work**: [Game of Life](https://github.com/dhanushuUzumaki/game-of-life)
