@@ -287,3 +287,11 @@
 **Thoughts**: Never gave SVG a try and was in a belief that it was difficult... but it doesn't seem so. Maybe Should explore it more before coming to conclusion. 
 
 **Link To Work**: [Game of Life](https://github.com/dhanushuUzumaki/game-of-life)
+
+
+### Day 39: Feb-10-18 Saturday 
+**Today's Progress**: Wrapped up the game of life. Its working but its not optimised. 
+
+**Thoughts**: It was fun. Didn't know time passed by. Completed in about 2 hours. 
+
+**Link To Work**: [Game Of Life](https://dhanushuuzumaki.github.io/game-of-life/public)
