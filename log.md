@@ -295,3 +295,9 @@
 **Thoughts**: It was fun. Didn't know time passed by. Completed in about 2 hours. 
 
 **Link To Work**: [Game Of Life](https://dhanushuuzumaki.github.io/game-of-life/public)
+
+
+### Day 40: Feb-11-18 Sunday 
+**Today's Progress**: Played around with S3. 
+
+**Thoughts**: Tried setting up replication, cdn and lifecycle events.
