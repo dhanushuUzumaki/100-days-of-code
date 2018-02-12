@@ -301,3 +301,9 @@
 **Today's Progress**: Played around with S3. 
 
 **Thoughts**: Tried setting up replication, cdn and lifecycle events.
+
+
+### Day 41: Feb-12-18 Monday 
+**Today's Progress**: Was looking into canvas and how to create an exploring kind of area with it for freecodecamp dungeon crawler game. 
+
+**Thoughts**: I am not exactly sure as to how this is going to work.. this is something that I have been confused with for quite some time. So I hope by completing this I can understand some things about this.
