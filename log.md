@@ -307,3 +307,9 @@
 **Today's Progress**: Was looking into canvas and how to create an exploring kind of area with it for freecodecamp dungeon crawler game. 
 
 **Thoughts**: I am not exactly sure as to how this is going to work.. this is something that I have been confused with for quite some time. So I hope by completing this I can understand some things about this.
+
+
+### Day 42: Feb-13-18 Tuesday 
+**Today's Progress**: Was looking into depth first back tracker maze generation algorithm and a implementaion video of it by coding train. 
+
+**Thoughts**: Hope all this KD will end by tomorrow and soon have an awesome game.
