@@ -313,3 +313,11 @@
 **Today's Progress**: Was looking into depth first back tracker maze generation algorithm and a implementaion video of it by coding train. 
 
 **Thoughts**: Hope all this KD will end by tomorrow and soon have an awesome game.
+
+
+### Day 43: Feb-14-18 Wednesday 
+**Today's Progress**: Started working with canvas. Spent some time in getting started with Google India Scholarship Challenge. 
+
+**Thoughts**: Reading through MDN on canvas and have a simple grid. Currently on codepen but planning to have a new repo for maze generator which will be similar to the game of life one in terms of UI but with canvas instead of svg. 
+
+**Link To Work**: [CodePen - Maze Generator. Grid only for now.](https://codepen.io/dhanushuUzumaki/pen/bLopVO)
