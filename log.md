@@ -321,3 +321,11 @@
 **Thoughts**: Reading through MDN on canvas and have a simple grid. Currently on codepen but planning to have a new repo for maze generator which will be similar to the game of life one in terms of UI but with canvas instead of svg. 
 
 **Link To Work**: [CodePen - Maze Generator. Grid only for now.](https://codepen.io/dhanushuUzumaki/pen/bLopVO)
+
+
+### Day 44: Feb-15-18 Thursday 
+**Today's Progress**: Worked on maze generator. Did a lot of things wrong yesterday without understanding. Recitifer them today and learned quite a few things. 
+
+**Thoughts**: Unable to fill the shape I formed with fill don't know why its happening. similarly the walls even after setting to false are not updated on the cell object. Should look into all these things. 
+
+**Link To Work**: [Maze generator](https://codepen.io/dhanushuUzumaki/full/bLopVO/)
