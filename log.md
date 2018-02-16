@@ -329,3 +329,11 @@
 **Thoughts**: Unable to fill the shape I formed with fill don't know why its happening. similarly the walls even after setting to false are not updated on the cell object. Should look into all these things. 
 
 **Link To Work**: [Maze generator](https://codepen.io/dhanushuUzumaki/full/bLopVO/)
+
+
+### Day 45: Feb-16-18 Friday 
+**Today's Progress**: Have a mvp of the maze generator.. yay :D so happy.. 
+
+**Thoughts**: Tried out several things for fixing my stupid mistakes.. now i draw lines to show walls but fill with a seperate rect without border. 
+
+**Link To Work**: [Maze Generator](https://codepen.io/dhanushuUzumaki/full/bLopVO/)
