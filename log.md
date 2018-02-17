@@ -337,3 +337,9 @@
 **Thoughts**: Tried out several things for fixing my stupid mistakes.. now i draw lines to show walls but fill with a seperate rect without border. 
 
 **Link To Work**: [Maze Generator](https://codepen.io/dhanushuUzumaki/full/bLopVO/)
+
+
+### Day 46: Feb-17-18 Saturday 
+**Today's Progress**: Completed 90% of lesson 2 in google udacity pwa scholarship. 
+
+**Thoughts**: My knowledge on pwa was very limited to the 2 day training I had in google hyd. But this one is very promising. Learning a lot of interesting things.
