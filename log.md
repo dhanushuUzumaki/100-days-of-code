@@ -343,3 +343,9 @@
 **Today's Progress**: Completed 90% of lesson 2 in google udacity pwa scholarship. 
 
 **Thoughts**: My knowledge on pwa was very limited to the 2 day training I had in google hyd. But this one is very promising. Learning a lot of interesting things.
+
+
+### Day 47: Feb-18-18 Sunday 
+**Today's Progress**: Worked through udacity pwa. 
+
+**Thoughts**: Completed lesson 3 on service workers.. learnt a lot about life cycles and to how to deliver the updates to the user. Started lesson 4 on idb and done almost 70% of it.
