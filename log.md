@@ -349,3 +349,9 @@
 **Today's Progress**: Worked through udacity pwa. 
 
 **Thoughts**: Completed lesson 3 on service workers.. learnt a lot about life cycles and to how to deliver the updates to the user. Started lesson 4 on idb and done almost 70% of it.
+
+
+### Day 48: Feb-19-18 Monday 
+**Today's Progress**: Completed the pwa part in google udacity course. 
+
+**Thoughts**: Learned interesting stuffs. Hoping to put them to good use. :)
