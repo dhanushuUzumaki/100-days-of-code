@@ -355,3 +355,11 @@
 **Today's Progress**: Completed the pwa part in google udacity course. 
 
 **Thoughts**: Learned interesting stuffs. Hoping to put them to good use. :)
+
+
+### Day 49: Feb-20-18 Tuesday 
+**Today's Progress**: Went through several articles in search for gaining info on dungeon crawler game. 
+
+**Thoughts**: Landed up on webGL somehow and looked at some videos with respect to it. 
+
+**Link To Work**: [Introduction to WebGL with Tony Parisi](https://www.youtube.com/watch?v=Y7xLuDBpZAY)
