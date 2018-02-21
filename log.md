@@ -363,3 +363,11 @@
 **Thoughts**: Landed up on webGL somehow and looked at some videos with respect to it. 
 
 **Link To Work**: [Introduction to WebGL with Tony Parisi](https://www.youtube.com/watch?v=Y7xLuDBpZAY)
+
+
+### Day 50: Feb-21-18 Wednesday 
+**Today's Progress**: Wanted to do something cool for half century, but ended up sucking. Tried to have typing css effect story but came up with this. 
+
+**Thoughts**: Will not work in mobile and I am not sure what to do about it. Should have to look into it more. 
+
+**Link To Work**: [CSS Typing Text animation.](https://codepen.io/dhanushuUzumaki/full/ZroqjR/)
