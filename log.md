@@ -371,3 +371,9 @@
 **Thoughts**: Will not work in mobile and I am not sure what to do about it. Should have to look into it more. 
 
 **Link To Work**: [CSS Typing Text animation.](https://codepen.io/dhanushuUzumaki/full/ZroqjR/)
+
+
+### Day 51: Feb-22-18 Thursday 
+**Today's Progress**: Attended AWS Innovate: Machine Learning conference. Learned a lot of interesting things possible through aws. 
+
+**Thoughts**: The simplicity they provide in terms of infrastructure is just amazing. Hoping to learn a lot more.
