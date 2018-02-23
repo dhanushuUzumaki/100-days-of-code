@@ -377,3 +377,9 @@
 **Today's Progress**: Attended AWS Innovate: Machine Learning conference. Learned a lot of interesting things possible through aws. 
 
 **Thoughts**: The simplicity they provide in terms of infrastructure is just amazing. Hoping to learn a lot more.
+
+
+### Day 52: Feb-23-18 Friday 
+**Today's Progress**: followed acloudguru's videos and played around with s3 and also with css variables. 
+
+**Thoughts**: High fever, so these are the only things I was able to do. Hoping the fever goes by tomorrow and things get back to normal.
