@@ -383,3 +383,9 @@
 **Today's Progress**: followed acloudguru's videos and played around with s3 and also with css variables. 
 
 **Thoughts**: High fever, so these are the only things I was able to do. Hoping the fever goes by tomorrow and things get back to normal.
+
+
+### Day 53: Feb-24-18 Saturday 
+**Today's Progress**: Worked on the uzumaki generator. Wrote scaffolding for redux. But having redux with nothing to do is really stupid and I also wanted to have some kind of starter project inside the generator. So planning to add a simple todo app with it. 
+
+**Thoughts**: Used the same code from journal app for the redux setup and here it is reflecting in dev tools. It must be that I did some stupid shit with state over there for things to break. Should find and fix it.
