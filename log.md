@@ -389,3 +389,11 @@
 **Today's Progress**: Worked on the uzumaki generator. Wrote scaffolding for redux. But having redux with nothing to do is really stupid and I also wanted to have some kind of starter project inside the generator. So planning to add a simple todo app with it. 
 
 **Thoughts**: Used the same code from journal app for the redux setup and here it is reflecting in dev tools. It must be that I did some stupid shit with state over there for things to break. Should find and fix it.
+
+
+### Day 54: Feb-25-18 Sunday 
+**Today's Progress**: Started with a simple todo project for having inside generator. It took 2 hours just to set things up because of a stupid versioning issue. 
+
+**Thoughts**: Had react-router v4 which needs v5 of react-router-redux while having v4 of it. But I was writing code for v5 of it with connected router and provider kept on throwing an error saying invalid element. I don't know why it struck but after 1.5 hrs of trouble looked into package.json to find this stupid thing. Leason learnt. :( 
+
+**Link To Work**: [Todo App](https://github.com/dhanushuUzumaki/todo-app)
