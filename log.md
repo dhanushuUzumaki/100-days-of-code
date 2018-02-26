@@ -397,3 +397,11 @@
 **Thoughts**: Had react-router v4 which needs v5 of react-router-redux while having v4 of it. But I was writing code for v5 of it with connected router and provider kept on throwing an error saying invalid element. I don't know why it struck but after 1.5 hrs of trouble looked into package.json to find this stupid thing. Leason learnt. :( 
 
 **Link To Work**: [Todo App](https://github.com/dhanushuUzumaki/todo-app)
+
+
+### Day 55: Feb-26-18 Monday 
+**Today's Progress**: Wanted to try page transition animations with react router. was looking into articles and tried something. But what I have currently is a component that will render two divs. Should really improve a lot. 
+
+**Thoughts**: Should have an action plan and follow it else I am ending up doing stupid things like this. 
+
+**Link To Work**: [Todays awful commit](https://github.com/dhanushuUzumaki/todo-app/tree/e74022f2931e57ddb2e89a36d70f81d3ef14c863)
