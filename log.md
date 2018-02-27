@@ -405,3 +405,11 @@
 **Thoughts**: Should have an action plan and follow it else I am ending up doing stupid things like this. 
 
 **Link To Work**: [Todays awful commit](https://github.com/dhanushuUzumaki/todo-app/tree/e74022f2931e57ddb2e89a36d70f81d3ef14c863)
+
+
+### Day 56: Feb-27-18 Tuesday 
+**Today's Progress**: Did a mvc of todo app. It doesn't have any styles so far. 
+
+**Thoughts**: Hope to completely wrap this up tomorrow and wrap up generator. 
+
+**Link To Work**: [Today's commit - Todo app](https://github.com/dhanushuUzumaki/todo-app/tree/790bf20d6ddc9f60207578931a6747deaf6566af)
