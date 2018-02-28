@@ -413,3 +413,11 @@
 **Thoughts**: Hope to completely wrap this up tomorrow and wrap up generator. 
 
 **Link To Work**: [Today's commit - Todo app](https://github.com/dhanushuUzumaki/todo-app/tree/790bf20d6ddc9f60207578931a6747deaf6566af)
+
+
+### Day 57: Feb-28-18 Wednesday 
+**Today's Progress**: Yesterday forgot the main point of doing this. Hooking up with redux. So did that today. 
+
+**Thoughts**: Nothing specific. But I don't know how I forgot this yesterday. 
+
+**Link To Work**: [Today's commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/25cf06dfee321ccbeea2bdfa7a2dda2961f122b5)
