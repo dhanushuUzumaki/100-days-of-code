@@ -421,3 +421,9 @@
 **Thoughts**: Nothing specific. But I don't know how I forgot this yesterday. 
 
 **Link To Work**: [Today's commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/25cf06dfee321ccbeea2bdfa7a2dda2961f122b5)
+
+
+### Day 58: Mar-01-18 Thursday 
+**Today's Progress**: Was following wes bos's css grid tuts on cssgrid.io and trying things out. 
+
+**Thoughts**: This is so that I can use them correctly in the todo app. Completed about 10 videos.
