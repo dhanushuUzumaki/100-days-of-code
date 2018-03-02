@@ -427,3 +427,9 @@
 **Today's Progress**: Was following wes bos's css grid tuts on cssgrid.io and trying things out. 
 
 **Thoughts**: This is so that I can use them correctly in the todo app. Completed about 10 videos.
+
+
+### Day 59: Mar-02-18 Friday 
+**Today's Progress**: Continued on wes bos's css grid tutus. From that got to know about operator mono and so set up fira code and flottflott. 
+
+**Thoughts**: I have some experience with css grids from work but really learning a lot from this videos.
