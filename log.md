@@ -433,3 +433,9 @@
 **Today's Progress**: Continued on wes bos's css grid tutus. From that got to know about operator mono and so set up fira code and flottflott. 
 
 **Thoughts**: I have some experience with css grids from work but really learning a lot from this videos.
+
+
+### Day 60: Mar-03-18 Saturday 
+**Today's Progress**: Completed wes bos's css grid tuts. 
+
+**Thoughts**: The last 5-6 videos helped me learn a lot of cool stuff. Hoping to recreate one of them soon.
