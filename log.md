@@ -439,3 +439,11 @@
 **Today's Progress**: Completed wes bos's css grid tuts. 
 
 **Thoughts**: The last 5-6 videos helped me learn a lot of cool stuff. Hoping to recreate one of them soon.
+
+
+### Day 61: Mar-04-18 Sunday 
+**Today's Progress**: Worked on the todo app. Added some accessibility to the app but linter says not to use +ve tab index should look into that. Styled the app using grids and used css variables. :) 
+
+**Thoughts**: When items are added to the list, ui is breaking should fix that. 
+
+**Link To Work**: [Today's Commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/30c17115ecee87cf3b41b0e47020c5b742cb4444)
