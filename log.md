@@ -447,3 +447,11 @@
 **Thoughts**: When items are added to the list, ui is breaking should fix that. 
 
 **Link To Work**: [Today's Commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/30c17115ecee87cf3b41b0e47020c5b742cb4444)
+
+
+### Day 62: Mar-05-18 Monday 
+**Today's Progress**: Fixed the scroll issue. Not convinced with the current ui. Should modify it a little more. 
+
+**Thoughts**: Planning to move add item to the top and have it there always. Hoping to completely wrap this up tomorrow. Taking so much time for a simple todo app. 
+
+**Link To Work**: [Today's commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/4c34c54a2ea00148c103d3798504706d9bee8757)
