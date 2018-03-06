@@ -455,3 +455,11 @@
 **Thoughts**: Planning to move add item to the top and have it there always. Hoping to completely wrap this up tomorrow. Taking so much time for a simple todo app. 
 
 **Link To Work**: [Today's commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/4c34c54a2ea00148c103d3798504706d9bee8757)
+
+
+### Day 63: Mar-06-18 Tuesday 
+**Today's Progress**: Changed the UI of todo app. Its almost responsive. 
+
+**Thoughts**: Feel like I might have overused grid. But it's done, don't think it will be a good idea to waste any more time on this. 
+
+**Link To Work**: [Today's commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/37f18cd4423850c8f9db633dc94f1d32bfe765df)
