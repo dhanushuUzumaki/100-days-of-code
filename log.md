@@ -463,3 +463,11 @@
 **Thoughts**: Feel like I might have overused grid. But it's done, don't think it will be a good idea to waste any more time on this. 
 
 **Link To Work**: [Today's commit - Todo App](https://github.com/dhanushuUzumaki/todo-app/tree/37f18cd4423850c8f9db633dc94f1d32bfe765df)
+
+
+### Day 64: Mar-07-18 Wednesday 
+**Today's Progress**: Updated the generator and published. Now it has 3 scaffoldings, all with basic todo app. the app is almost reponsive. 
+
+**Thoughts**: Tried to set up auto publish with travis ci. But having some difficulties with nsp. I am not sure whether this is because of the api token. Should look into it. 
+
+**Link To Work**: [Generator Uzumaki - V0.1.0](https://github.com/dhanushuUzumaki/generator-uzumaki/tree/0.1.0)
