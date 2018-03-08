@@ -471,3 +471,11 @@
 **Thoughts**: Tried to set up auto publish with travis ci. But having some difficulties with nsp. I am not sure whether this is because of the api token. Should look into it. 
 
 **Link To Work**: [Generator Uzumaki - V0.1.0](https://github.com/dhanushuUzumaki/generator-uzumaki/tree/0.1.0)
+
+
+### Day 65: Mar-08-18 Thursday 
+**Today's Progress**: Was spending some time on the travis auto publishing, but it ended in vain. So, left it for some other time. Started with the rougelike. Was readinga a article on generating dungeons. 
+
+**Thoughts**: The process seems so complicated, but it's also a good thing. For too long I have been in the comfort zone. So I am planning to do this correctly. 
+
+**Link To Work**: [Generating a Dungeon](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
