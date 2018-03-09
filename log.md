@@ -479,3 +479,9 @@
 **Thoughts**: The process seems so complicated, but it's also a good thing. For too long I have been in the comfort zone. So I am planning to do this correctly. 
 
 **Link To Work**: [Generating a Dungeon](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
+
+
+### Day 66: Mar-09-18 Friday 
+**Today's Progress**: Played around with EC2 while following acloud guru's videos. 
+
+**Thoughts**: Should have started working on the rougelike, but don't know why I did this today. :(
