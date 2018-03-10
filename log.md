@@ -485,3 +485,9 @@
 **Today's Progress**: Played around with EC2 while following acloud guru's videos. 
 
 **Thoughts**: Should have started working on the rougelike, but don't know why I did this today. :(
+
+
+### Day 67: Mar-10-18 Saturday 
+**Today's Progress**: Follwed up on the same thing. Ec2 following acloudgurus videos. 
+
+**Thoughts**: Hoping to start with AMI stuff tomorrow and also planning to test out packer.
