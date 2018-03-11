@@ -491,3 +491,11 @@
 **Today's Progress**: Follwed up on the same thing. Ec2 following acloudgurus videos. 
 
 **Thoughts**: Hoping to start with AMI stuff tomorrow and also planning to test out packer.
+
+
+### Day 68: Mar-11-18 Sunday 
+**Today's Progress**: Felt like the rougelike is going to take a lot more time than I thought. So decided to finish up the D3 challenges first. Hoping to complete all the D3 challenges in next 2 weeks. Today started with gdp visualization. 
+
+**Thoughts**: It was like walking blind. Made a shitty basic data display but that is of no use. Should look at how to actually do things in D3. 
+
+**Link To Work**: [Today's commit - GDP Visualization](https://github.com/dhanushuUzumaki/gdp-visualization/tree/874eb470f40523d892f38693cfc4d3b2c25d31b0)
