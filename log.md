@@ -499,3 +499,11 @@
 **Thoughts**: It was like walking blind. Made a shitty basic data display but that is of no use. Should look at how to actually do things in D3. 
 
 **Link To Work**: [Today's commit - GDP Visualization](https://github.com/dhanushuUzumaki/gdp-visualization/tree/874eb470f40523d892f38693cfc4d3b2c25d31b0)
+
+
+### Day 69: Mar-12-18 Monday 
+**Today's Progress**: Wrapped up the GDP visualization. 
+
+**Thoughts**: I believe this the hello world of D3.. hoping to learn more. 
+
+**Link To Work**: [GDP Visualization](https://dhanushuuzumaki.github.io/gdp-visualization/)
