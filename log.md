@@ -507,3 +507,11 @@
 **Thoughts**: I believe this the hello world of D3.. hoping to learn more. 
 
 **Link To Work**: [GDP Visualization](https://dhanushuuzumaki.github.io/gdp-visualization/)
+
+
+### Day 70: Mar-13-18 Tuesday 
+**Today's Progress**: Completed Scatter plot visualization challenge of freecodecamp. 
+
+**Thoughts**: So happy I actually did it within 1.5 hrs. 
+
+**Link To Work**: [Race Result Visualization - Scatter Plot](https://dhanushuuzumaki.github.io/race-result-visualization/)
