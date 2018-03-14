@@ -515,3 +515,9 @@
 **Thoughts**: So happy I actually did it within 1.5 hrs. 
 
 **Link To Work**: [Race Result Visualization - Scatter Plot](https://dhanushuuzumaki.github.io/race-result-visualization/)
+
+
+### Day 71: Mar-14-18 Wednesday 
+**Today's Progress**: Started with the heatmap visualization. Haven't made any progress yet. Hoping to complete it by tomoroow. 
+
+**Thoughts**: If I could finish all these D3 challenges within next week then I would be really happy.
