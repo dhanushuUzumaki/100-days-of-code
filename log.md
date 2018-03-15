@@ -521,3 +521,9 @@
 **Today's Progress**: Started with the heatmap visualization. Haven't made any progress yet. Hoping to complete it by tomoroow. 
 
 **Thoughts**: If I could finish all these D3 challenges within next week then I would be really happy.
+
+
+### Day 72: Mar-15-18 Thursday 
+**Today's Progress**: Tried to recreate some single div objects I saw yesterday.. but it ended in vain. 
+
+**Thoughts**: I wanted to do it without looking at the original code but it has been very diffiult so far.
