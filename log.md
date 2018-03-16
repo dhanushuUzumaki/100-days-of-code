@@ -527,3 +527,11 @@
 **Today's Progress**: Tried to recreate some single div objects I saw yesterday.. but it ended in vain. 
 
 **Thoughts**: I wanted to do it without looking at the original code but it has been very diffiult so far.
+
+
+### Day 73: Mar-16-18 Friday 
+**Today's Progress**: Started javascript30 and watched day 1 video. Drum Kit. Implemented it. 
+
+**Thoughts**: Never knew there is a html tag called kbd.. saw this today on the video.. should do 2nd video on this as well as heatmap tomorrow. 
+
+**Link To Work**: [Drum Kit](https://dhanushuuzumaki.github.io/Javascript30/d1-drum-kit/)
