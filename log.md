@@ -535,3 +535,11 @@
 **Thoughts**: Never knew there is a html tag called kbd.. saw this today on the video.. should do 2nd video on this as well as heatmap tomorrow. 
 
 **Link To Work**: [Drum Kit](https://dhanushuuzumaki.github.io/Javascript30/d1-drum-kit/)
+
+
+### Day 74: Mar-17-18 Saturday 
+**Today's Progress**: Did day 2 of JS30. Accessing CSS variables from JS. 
+
+**Thoughts**: Wanted to do the heatmap today.. but couldn't. 
+
+**Link To Work**: [Image filter and location using CSS Variables](https://dhanushuuzumaki.github.io/Javascript30/d2-css-variables-in-js/)
