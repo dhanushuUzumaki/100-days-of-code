@@ -543,3 +543,11 @@
 **Thoughts**: Wanted to do the heatmap today.. but couldn't. 
 
 **Link To Work**: [Image filter and location using CSS Variables](https://dhanushuuzumaki.github.io/Javascript30/d2-css-variables-in-js/)
+
+
+### Day 75: Mar-18-18 Sunday 
+**Today's Progress**: Wrapped up the heatmap and did javascript 30 
+
+**Thoughts**: Somehow I missed the 2nd video and went to 3rd yesterday in JS30.. so did day 2's content today. 
+
+**Link To Work**: [Global Temperature Visualization using HeatMap](https://dhanushuuzumaki.github.io/global-temperature-visualization/)
