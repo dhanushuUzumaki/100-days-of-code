@@ -551,3 +551,11 @@
 **Thoughts**: Somehow I missed the 2nd video and went to 3rd yesterday in JS30.. so did day 2's content today. 
 
 **Link To Work**: [Global Temperature Visualization using HeatMap](https://dhanushuuzumaki.github.io/global-temperature-visualization/)
+
+
+### Day 76: Mar-19-18 Monday 
+**Today's Progress**: Worked on the force directed graph and day 4 of JS30. 
+
+**Thoughts**: Got the graph working.. but the flag sprite is not rendered. Should figure that out tomorrow. 
+
+**Link To Work**: [Today's Commit - Force Directed Graph](https://github.com/dhanushuUzumaki/national-contiguity-visualization/tree/a4534492f37457a1bd792e5b51e2f23843fd9a6d)
