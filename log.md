@@ -559,3 +559,11 @@
 **Thoughts**: Got the graph working.. but the flag sprite is not rendered. Should figure that out tomorrow. 
 
 **Link To Work**: [Today's Commit - Force Directed Graph](https://github.com/dhanushuUzumaki/national-contiguity-visualization/tree/a4534492f37457a1bd792e5b51e2f23843fd9a6d)
+
+
+### Day 77: Mar-20-18 Tuesday 
+**Today's Progress**: Did Day 5 of JS30, flex panel image gallery. 
+
+**Thoughts**: Wanted to look into the flag rendering issue in force directed graph.. but couldn't. Hoping to wrap it up by tomorrow. 
+
+**Link To Work**: [Flex Panel Image Gallery](https://dhanushuuzumaki.github.io/Javascript30/d5-flex-panels-image-gallery/)
