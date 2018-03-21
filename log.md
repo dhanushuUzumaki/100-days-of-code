@@ -567,3 +567,11 @@
 **Thoughts**: Wanted to look into the flag rendering issue in force directed graph.. but couldn't. Hoping to wrap it up by tomorrow. 
 
 **Link To Work**: [Flex Panel Image Gallery](https://dhanushuuzumaki.github.io/Javascript30/d5-flex-panels-image-gallery/)
+
+
+### Day 78: Mar-21-18 Wednesday 
+**Today's Progress**: Did Day 6 of JS30.. Ajax type ahead. 
+
+**Thoughts**: Still didn't fix the flag rendering issue.. should wrap it up and start with the next visualization. 
+
+**Link To Work**: [AJAX Type Ahead](https://dhanushuuzumaki.github.io/Javascript30/d6-ajax-type-ahead/)
