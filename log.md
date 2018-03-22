@@ -575,3 +575,9 @@
 **Thoughts**: Still didn't fix the flag rendering issue.. should wrap it up and start with the next visualization. 
 
 **Link To Work**: [AJAX Type Ahead](https://dhanushuuzumaki.github.io/Javascript30/d6-ajax-type-ahead/)
+
+
+### Day 79: Mar-22-18 Thursday 
+**Today's Progress**: Followed day 7 of JS30. 
+
+**Thoughts**: Still haven't resolved image rendering...
