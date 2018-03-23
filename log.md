@@ -581,3 +581,11 @@
 **Today's Progress**: Followed day 7 of JS30. 
 
 **Thoughts**: Still haven't resolved image rendering...
+
+
+### Day 80: Mar-23-18 Friday 
+**Today's Progress**: Yet another day with only JS30. 
+
+**Thoughts**: Did a kind of canvas drawboard. 
+
+**Link To Work**: [Canvas Drawboard](https://dhanushuuzumaki.github.io/Javascript30/d8-fun-with-canvas/)
