@@ -589,3 +589,9 @@
 **Thoughts**: Did a kind of canvas drawboard. 
 
 **Link To Work**: [Canvas Drawboard](https://dhanushuuzumaki.github.io/Javascript30/d8-fun-with-canvas/)
+
+
+### Day 81: Mar-24-18 Saturday 
+**Today's Progress**: Spent time on the image rendering issue in force directed graph. 
+
+**Thoughts**: Found svg image doesn't support gif.. so got a png background and tried with it.. that also didn't work.. then I tried having the img tag directly inside a foriegnobject tag.. that works in another svg but not when constructing through d3... Hoping to fix it by tomorrow atleast. :(
