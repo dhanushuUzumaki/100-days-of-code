@@ -595,3 +595,11 @@
 **Today's Progress**: Spent time on the image rendering issue in force directed graph. 
 
 **Thoughts**: Found svg image doesn't support gif.. so got a png background and tried with it.. that also didn't work.. then I tried having the img tag directly inside a foriegnobject tag.. that works in another svg but not when constructing through d3... Hoping to fix it by tomorrow atleast. :(
+
+
+### Day 82: Mar-25-18 Sunday 
+**Today's Progress**: Wrapped up the force directed graph visualization with the help of some people from stackoverflow. 
+
+**Thoughts**: It can still be improved but I have left it for now. Also catched up JS30. 
+
+**Link To Work**: [National Contiguity Visualization](https://dhanushuuzumaki.github.io/national-contiguity-visualization/)
