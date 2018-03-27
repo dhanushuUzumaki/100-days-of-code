@@ -603,3 +603,15 @@
 **Thoughts**: It can still be improved but I have left it for now. Also catched up JS30. 
 
 **Link To Work**: [National Contiguity Visualization](https://dhanushuuzumaki.github.io/national-contiguity-visualization/)
+
+
+### Day 83: Mar-26-18 Monday 
+**Today's Progress**: Did a custom HTML5 video player following wes bos on JS30.
+
+**Thoughts**: Wanted to add fullscreen to it. Will do it tomorrow. 
+
+
+### Day 84: Mar-27-18 Tuesday 
+**Today's Progress**: Did key sequence detection  in JS30 and implemented fullscreen feature in yesterday's code.
+
+**Thoughts**: Hoping to start with the next visualization tomorrow. 
