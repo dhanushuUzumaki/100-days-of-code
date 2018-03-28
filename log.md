@@ -615,3 +615,9 @@
 **Today's Progress**: Did key sequence detection  in JS30 and implemented fullscreen feature in yesterday's code.
 
 **Thoughts**: Hoping to start with the next visualization tomorrow. 
+
+
+### Day 85: Mar-28-18 Wednesday 
+**Today's Progress**: Started with the meteorite landing visualization and did JS30. 
+
+**Thoughts**: Only got a simple projection today. :(
