@@ -621,3 +621,11 @@
 **Today's Progress**: Started with the meteorite landing visualization and did JS30. 
 
 **Thoughts**: Only got a simple projection today. :(
+
+
+### Day 86: Mar-29-18 Thursday 
+**Today's Progress**: Followed up on JS30 and have an mvp of the meteorite landing visualization. 
+
+**Thoughts**: Having problem with replotting the data on zoom. Been at it for hours, still no idea on how to solve it. So asked on SO. 
+
+**Link To Work**: [StackOverflow Question](https://stackoverflow.com/questions/49558496/redraw-points-on-mapprojection-while-zooming)
