@@ -629,3 +629,11 @@
 **Thoughts**: Having problem with replotting the data on zoom. Been at it for hours, still no idea on how to solve it. So asked on SO. 
 
 **Link To Work**: [StackOverflow Question](https://stackoverflow.com/questions/49558496/redraw-points-on-mapprojection-while-zooming)
+
+
+### Day 87: Mar-30-18 Friday 
+**Today's Progress**: Followed up on JS30. Added checkall, uncheckall and deleteall to it. 
+
+**Thoughts**: Was also looking into the visualization thing.. I am unable to comeup with anything so far.. 
+
+**Link To Work**: [Today's Commit](https://dhanushuuzumaki.github.io/Javascript30/d15-localstorage-and-event-delegation/)
