@@ -637,3 +637,15 @@
 **Thoughts**: Was also looking into the visualization thing.. I am unable to comeup with anything so far.. 
 
 **Link To Work**: [Today's Commit](https://dhanushuuzumaki.github.io/Javascript30/d15-localstorage-and-event-delegation/)
+
+
+### Day 88: Mar-31-18 Saturday 
+**Today's Progress**: Followed up on JS30. Some time on visualization. 
+
+**Thoughts**: Got some help from freecodecamp gitter and also tried out some new ways from d3's documentation.
+
+
+### Day 89: Apr-01-18 Sunday 
+**Today's Progress**: The visualization thing - I am lost. Just did JS30 and was trying some things from a medium article.
+
+**Thoughts**: I am thinking of removing the zoom capability as such and just display the points.
