@@ -649,3 +649,10 @@
 **Today's Progress**: The visualization thing - I am lost. Just did JS30 and was trying some things from a medium article.
 
 **Thoughts**: I am thinking of removing the zoom capability as such and just display the points.
+
+### Day 90: Apr-02-18 Monday 
+**Today's Progress**: Did JS30 and updated the scroll behaviour in markdown previewer. 
+
+**Thoughts**: Also looked into the meteor landing.. tried few other methods and got some help from gitter also.. but still not resolved. 
+
+**Link To Work**: [Markdown Previewer - update]()
