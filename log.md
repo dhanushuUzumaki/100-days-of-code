@@ -656,3 +656,11 @@
 **Thoughts**: Also looked into the meteor landing.. tried few other methods and got some help from gitter also.. but still not resolved. 
 
 **Link To Work**: [Markdown Previewer - update](https://dhanushuuzumaki.github.io/markdown_previewer/)
+
+
+### Day 91: Apr-03-18 Tuesday 
+**Today's Progress**: Worked only on JS30 today. 
+
+**Thoughts**: Learned several new things today from JS30.. 
+
+**Link To Work**: [WebCam Fun](https://dhanushuuzumaki.github.io/Javascript30/d19-webcam-fun/)
