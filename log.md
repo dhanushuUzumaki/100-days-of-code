@@ -664,3 +664,11 @@
 **Thoughts**: Learned several new things today from JS30.. 
 
 **Link To Work**: [WebCam Fun](https://dhanushuuzumaki.github.io/Javascript30/d19-webcam-fun/)
+
+
+### Day 92: Apr-04-18 Wednesday 
+**Today's Progress**: Played around with speechrecognition api following JS30. 
+
+**Thoughts**: Also worked on making the meteorite landing into bounded zoom as I have seen an example with that.. 
+
+**Link To Work**: [Speech Detection](https://dhanushuuzumaki.github.io/Javascript30/d20-speech-detection/)
