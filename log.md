@@ -672,3 +672,15 @@
 **Thoughts**: Also worked on making the meteorite landing into bounded zoom as I have seen an example with that.. 
 
 **Link To Work**: [Speech Detection](https://dhanushuuzumaki.github.io/Javascript30/d20-speech-detection/)
+
+
+### Day 93: Apr-05-18 Thursday  
+**Today's Progress**: Played around with geolocation api following JS30. 
+
+**Thoughts**: Haven't touched the meteor landing yet. Have to complete that and rougelike before Round 1 ends.
+
+
+### Day 94: Apr-06-18 Friday 
+**Today's Progress**: Followed up with JS30 and did a similar animation to that.
+
+**Thoughts**: Also went through the new things possible in React 16.
