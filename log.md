@@ -684,3 +684,19 @@
 **Today's Progress**: Followed up with JS30 and did a similar animation to that.
 
 **Thoughts**: Also went through the new things possible in React 16.
+
+
+### Day 95: Apr-07-18 Saturday 
+**Today's Progress**: Following JS30 explored speech synthesis api.
+
+**Thoughts**: Before this I never even thought of browsers having these things natively. 🆒 (Cooooool)
+
+**Link To Work**: [Speech Synthesis](https://dhanushuuzumaki.github.io/Javascript30/d23-speech-synthesis/)
+
+
+### Day 96: Apr-08-18 Sunday 
+**Today's Progress**: Following JS30 did a sticky navigation.
+
+**Thoughts**: Also spent some time on a medium article on using python like decorators in JS and some examples of where it might be useful.
+
+**Link To Work**: [Sticky Nav](https://dhanushuuzumaki.github.io/Javascript30/d24-sticky-nav/)
