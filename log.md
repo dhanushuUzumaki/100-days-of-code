@@ -700,3 +700,8 @@
 **Thoughts**: Also spent some time on a medium article on using python like decorators in JS and some examples of where it might be useful.
 
 **Link To Work**: [Sticky Nav](https://dhanushuuzumaki.github.io/Javascript30/d24-sticky-nav/)
+
+### Day 97: Apr-09-18 Monday 
+**Today's Progress**: Learned some new stuff regarding JS's event handling. 
+
+**Thoughts**: Nothing in particular... spent most of the time on MDN today after JS30.
