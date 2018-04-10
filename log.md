@@ -705,3 +705,11 @@
 **Today's Progress**: Learned some new stuff regarding JS's event handling. 
 
 **Thoughts**: Nothing in particular... spent most of the time on MDN today after JS30.
+
+
+### Day 98: Apr-10-18 Tuesday 
+**Today's Progress**: Attended Oracle Code @ Banglore - IN. Great talk by [@christhalinger](https://twitter.com/christhalinger) on GRAAL and [@prpatel](https://twitter.com/prpatel).. Thanks a lot guys. 
+
+**Thoughts**: Followed up on JS30 and did a stripe like follow along nav and made one small change to that. 
+
+**Link To Work**: [Stripe Follow Along Nav](https://dhanushuuzumaki.github.io/Javascript30/d26-stripe-follow-along-nav/)
