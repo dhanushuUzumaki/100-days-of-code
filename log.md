@@ -713,3 +713,11 @@
 **Thoughts**: Followed up on JS30 and did a stripe like follow along nav and made one small change to that. 
 
 **Link To Work**: [Stripe Follow Along Nav](https://dhanushuuzumaki.github.io/Javascript30/d26-stripe-follow-along-nav/)
+
+
+### Day 99: Apr-11-18 Wednesday 
+**Today's Progress**: Followed up on JS30. Did a click and drag using mouse events. 
+
+**Thoughts**: Spent some time on reading up on the things added in ECMAScript 2016,2017,2018. 
+
+**Link To Work**: [Click and Drag](https://dhanushuuzumaki.github.io/Javascript30/d27-click-and-drag/)
