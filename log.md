@@ -721,3 +721,11 @@
 **Thoughts**: Spent some time on reading up on the things added in ECMAScript 2016,2017,2018. 
 
 **Link To Work**: [Click and Drag](https://dhanushuuzumaki.github.io/Javascript30/d27-click-and-drag/)
+
+
+### Day 100: Apr-12-18 Thursday 
+**Today's Progress**: Day 100. Feeling so happy. Completed meteorite landing visualization and also followed up on JS30. 
+
+**Thoughts**: Wanted to complete all D3 and react projects in freecodecamp but rouglike is still pending.. still feeling great :) 
+
+**Link To Work**: [Meteorite Landing Visualization](https://dhanushuuzumaki.github.io/meteorite-landing-visualization/)
