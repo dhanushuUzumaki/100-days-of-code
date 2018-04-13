@@ -1,8 +1,13 @@
 # I've joined the #100DaysOfCode Challenge.
 
-## Contents
-* [Rules](https://github.com/amelkisethian/100-days-of-code/blob/master/rules.md)
+## Contents  
+
+I am currently on Round 2 of 100DaysOfCode.
+
+
 * [Log - click here to see my progress](log.md)
+* [Round 1 Log](R1-log.md)
+* [Rules](https://github.com/amelkisethian/100-days-of-code/blob/master/rules.md)
 * [FAQ](https://github.com/amelkisethian/100-days-of-code/blob/master/FAQ.md)
 
 ## If you've decided to join:
