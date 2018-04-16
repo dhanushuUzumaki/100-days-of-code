@@ -20,3 +20,9 @@
 **Today's Progress**: Forked and cloned node. Build and test done successfully and sent a mail to nodetodo with those. Hoping to get something to work on. 
 
 **Thoughts**: Went through the source code but understood nothing.. :(.. never knew eslintrc can be a JS file with our own rules and all (still not sure about it, but looks like it).. src is filled with .c and .h files.. went through test cases for imports and some other stuff.. this is not going to be easy but I want to understand all these.. hope I do..
+
+
+### Day 4: Apr-16-18 Monday 
+**Today's Progress**: Same as yesterday.. aimlessly went through node code. 
+
+**Thoughts**: Nothing useful came of out of it yet.. maybe I should just stop it here and start with rougelike..
