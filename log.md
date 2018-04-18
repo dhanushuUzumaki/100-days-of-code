@@ -32,3 +32,9 @@
 **Today's Progress**: Read about http/2 and played around with it in node. following a medium article. 
 
 **Thoughts**: also read about class vs prototypal inheritance, nodejs streams and some patterns in react.. apart from trying out http/2 nothing much was done today.
+
+
+### Day 6: Apr-18-18 Wednesday 
+**Today's Progress**: Started with rougelike. Did nothing major.. ihaven't even setup repo yet.. was just playing around based on some article and thought that would work but no.. 
+
+**Thoughts**: so confused as to the game itself.. sshould plan and work
