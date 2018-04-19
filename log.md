@@ -38,3 +38,9 @@
 **Today's Progress**: Started with rougelike. Did nothing major.. ihaven't even setup repo yet.. was just playing around based on some article and thought that would work but no.. 
 
 **Thoughts**: so confused as to the game itself.. sshould plan and work
+
+
+### Day 7: Apr-19-18 Thursday 
+**Today's Progress**: Same as yesterday..both in terms of what I did and what went wrong.. planning to focus and work on it this weekend. 
+
+**Thoughts**: But learned some cool stuff regarding aws today :)
