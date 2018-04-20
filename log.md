@@ -44,3 +44,11 @@
 **Today's Progress**: Same as yesterday..both in terms of what I did and what went wrong.. planning to focus and work on it this weekend. 
 
 **Thoughts**: But learned some cool stuff regarding aws today :)
+
+
+### Day 8: Apr-20-18 Friday 
+**Today's Progress**: Got a task through nodetodo.. it's to changes the assertion method in a test file.. I did and opened a pull request. 
+
+**Thoughts**: It got approved.. Hope all the build succeeds and it gets merged. 
+
+**Link To Work**: [Pull Request](https://github.com/nodejs/node/pull/20172)
