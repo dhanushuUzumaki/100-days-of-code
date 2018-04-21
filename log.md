@@ -52,3 +52,9 @@
 **Thoughts**: It got approved.. Hope all the build succeeds and it gets merged. 
 
 **Link To Work**: [Pull Request](https://github.com/nodejs/node/pull/20172)
+
+
+### Day 9: Apr-21-18 Saturday 
+**Today's Progress**: Spent half the day reading code complete. 
+
+**Thoughts**: Didn't know were it came from.. was cleaning my room.. found this and started.
