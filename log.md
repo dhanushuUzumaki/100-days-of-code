@@ -58,3 +58,9 @@
 **Today's Progress**: Spent half the day reading code complete. 
 
 **Thoughts**: Didn't know were it came from.. was cleaning my room.. found this and started.
+
+
+### Day 10: Apr-22-18 Sunday 
+**Today's Progress**: Continued to do the same.. spent almost 10% of the book. 
+
+**Thoughts**: Can't believe I spent a whole day with a book. The last time that happened was almost a year ago. Feeling so happy..
