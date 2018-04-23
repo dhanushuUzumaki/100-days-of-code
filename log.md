@@ -64,3 +64,9 @@
 **Today's Progress**: Continued to do the same.. spent almost 10% of the book. 
 
 **Thoughts**: Can't believe I spent a whole day with a book. The last time that happened was almost a year ago. Feeling so happy..
+
+
+### Day 11: Apr-23-18 Monday 
+**Today's Progress**: Same as yesterday.. spent the day on book.. was sick 
+
+**Thoughts**: Believe might have completed almost another 5%.. but not so sure..
