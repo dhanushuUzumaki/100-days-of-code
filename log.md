@@ -70,3 +70,9 @@
 **Today's Progress**: Same as yesterday.. spent the day on book.. was sick 
 
 **Thoughts**: Believe might have completed almost another 5%.. but not so sure..
+
+
+### Day 12: Apr-24-18 Tuesday 
+**Today's Progress**: Same as yesterday.. spent the day on book.. was sick 
+
+**Thoughts**: Nothing much. Thinking may be I should stop with the book and finish rougelike but that also feels like im switching back and forth.. so confused.
