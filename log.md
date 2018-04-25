@@ -76,3 +76,9 @@
 **Today's Progress**: Same as yesterday.. spent the day on book.. was sick 
 
 **Thoughts**: Nothing much. Thinking may be I should stop with the book and finish rougelike but that also feels like im switching back and forth.. so confused.
+
+
+### Day 13: Apr-25-18 Wednesday 
+**Today's Progress**: Worked on rougelike.. tried generating the progressive map but have been doing only stupid things.
+
+**Thoughts**: Should first decide everything about the game..
