@@ -82,3 +82,10 @@
 **Today's Progress**: Worked on rougelike.. tried generating the progressive map but have been doing only stupid things.
 
 **Thoughts**: Should first decide everything about the game..
+
+### Day 14: Apr-26-18 Thursday 
+**Today's Progress**: Looked into and played around with the browser's filesystem api.. 
+
+**Thoughts**: so far I have to been able to read a file.. and write to a file in a sandboxed environment but I still have to figure out to how to expose the files in sandboxed environment.. I looked into it for sometime and most of the answers said it is not possible but I hope there will be a way.. 
+
+**Link To Work**: [FileSystem API - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/file/filesystem/#toc-file)
