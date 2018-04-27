@@ -89,3 +89,9 @@
 **Thoughts**: so far I have to been able to read a file.. and write to a file in a sandboxed environment but I still have to figure out to how to expose the files in sandboxed environment.. I looked into it for sometime and most of the answers said it is not possible but I hope there will be a way.. 
 
 **Link To Work**: [FileSystem API - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/file/filesystem/#toc-file)
+
+
+### Day 15: Apr-27-18 Friday 
+**Today's Progress**: Spent some more time on the filesystem API and tried to identify a way to expose the sandboxed files.
+
+**Thoughts**: One way is to download the file and that is not suited for my case.. so looking into other methods.
