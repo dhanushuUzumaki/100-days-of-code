@@ -95,3 +95,9 @@
 **Today's Progress**: Spent some more time on the filesystem API and tried to identify a way to expose the sandboxed files.
 
 **Thoughts**: One way is to download the file and that is not suited for my case.. so looking into other methods.
+
+
+### Day 16: Apr-28-18 Saturday 
+**Today's Progress**: Started to go my old machine learning notes. Also started off with a course on udemy.
+
+**Thoughts**: Also working on rougelike but that is not seeming to move forward without actually deciding what actually needs to be done.
