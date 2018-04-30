@@ -107,3 +107,9 @@
 **Today's Progress**: Same as yesterday. Reading notes from Andrew Ng. I am reading because of a need in work.
 
 **Thoughts**: Also finished another 5% of Code Complete.
+
+
+### Day 18: Apr-30-18 Monday 
+**Today's Progress**: Spent time on learning polynomial and random forest regression.
+
+**Thoughts**: Distracting and deviating too much.. Only logging all the time about the need for an action plan but never doing it 😢
