@@ -113,3 +113,8 @@
 **Today's Progress**: Spent time on learning polynomial and random forest regression.
 
 **Thoughts**: Distracting and deviating too much.. Only logging all the time about the need for an action plan but never doing it 😢
+
+### Day 19: May-01-18 Tuesday 
+**Today's Progress**: Spent time on the same course. Also learned some interesting stuff about outliers. 
+
+**Thoughts**: Hoping to use all this stuff IRL...
