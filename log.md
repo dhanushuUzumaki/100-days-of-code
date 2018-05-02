@@ -118,3 +118,9 @@
 **Today's Progress**: Spent time on the same course. Also learned some interesting stuff about outliers. 
 
 **Thoughts**: Hoping to use all this stuff IRL...
+
+
+### Day 20: May-01-18 Wednesday 
+**Today's Progress**: Spent almost another 2.* hours on code complete.
+
+**Thoughts**: Recently I haven't coded much apart from work and doing some fun things as I look them up on medium. I know I changed the rules to accept learning also but this doesn't feel good.
