@@ -120,7 +120,13 @@
 **Thoughts**: Hoping to use all this stuff IRL...
 
 
-### Day 20: May-01-18 Wednesday 
+### Day 20: May-02-18 Wednesday 
 **Today's Progress**: Spent almost another 2.* hours on code complete.
 
 **Thoughts**: Recently I haven't coded much apart from work and doing some fun things as I look them up on medium. I know I changed the rules to accept learning also but this doesn't feel good.
+
+
+### Day 21: May-03-18 Thursday 
+**Today's Progress**: Worked on a function to test a math statement.. It was quite fun but the function is too simple..
+
+**Thoughts**: Apart from this read couple of articles about MERN stack.
