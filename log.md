@@ -130,3 +130,9 @@
 **Today's Progress**: Worked on a function to test a math statement.. It was quite fun but the function is too simple..
 
 **Thoughts**: Apart from this read couple of articles about MERN stack.
+
+
+### Day 22: May-04-18 Friday 
+**Today's Progress**: Started on some initial prep for journal app. Went through the code I wrote earlier for this. Tried to and use some of that but decided to start fresh.
+
+**Thoughts**: So far decided on React and GraphQL for sure.
