@@ -136,3 +136,11 @@
 **Today's Progress**: Started on some initial prep for journal app. Went through the code I wrote earlier for this. Tried to and use some of that but decided to start fresh.
 
 **Thoughts**: So far decided on React and GraphQL for sure.
+
+
+### Day 23: May-05-18 Saturday 
+**Today's Progress**: Shared about journal with a bunch of friends and almost all of them are in. Should do this in a proper way.
+
+**Thoughts**: Also sent a PR to one of my friend's repo for accepting CLI arguments. It took me some time to understand the code cos of all those threads... but adding the param part was easy.
+
+**Link To Work**: [The-X-Minutes PR](https://github.com/suren99/The-X-Minutes/pull/1)
