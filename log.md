@@ -144,3 +144,9 @@
 **Thoughts**: Also sent a PR to one of my friend's repo for accepting CLI arguments. It took me some time to understand the code cos of all those threads... but adding the param part was easy.
 
 **Link To Work**: [The-X-Minutes PR](https://github.com/suren99/The-X-Minutes/pull/1)
+
+
+### Day 24: May-06-18 Sunday 
+**Today's Progress**: Looked at some example code bases and rising stack articles on react full stack apps.
+
+**Thoughts**: 😛 Spent some more time with code complete.
