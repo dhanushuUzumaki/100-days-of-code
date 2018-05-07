@@ -150,3 +150,9 @@
 **Today's Progress**: Looked at some example code bases and rising stack articles on react full stack apps.
 
 **Thoughts**: 😛 Spent some more time with code complete.
+
+
+### Day 25: May-07-18 Monday 
+**Today's Progress**: Worked with a friend to bring up a new ec2 instance and ssh into it using python. Had some trouble with security groups but we resolved it with help of stackoverflow.
+
+**Thoughts**: I am not sure of his usecase though.. creating a instance on runtime.. ? 🤔
