@@ -156,3 +156,9 @@
 **Today's Progress**: Worked with a friend to bring up a new ec2 instance and ssh into it using python. Had some trouble with security groups but we resolved it with help of stackoverflow.
 
 **Thoughts**: I am not sure of his usecase though.. creating a instance on runtime.. ? 🤔
+
+
+### Day 26: May-08-18 Tuesday 
+**Today's Progress**: looked into and also tried multiple ways of using css in React for journal.
+
+**Thoughts**: I am still sure about the styled components.. should spend some more time on it.. but for me CSS modules approach feels right.. but not sure on that also.
