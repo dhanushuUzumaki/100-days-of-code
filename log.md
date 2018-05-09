@@ -162,3 +162,9 @@
 **Today's Progress**: looked into and also tried multiple ways of using css in React for journal.
 
 **Thoughts**: I am still sure about the styled components.. should spend some more time on it.. but for me CSS modules approach feels right.. but not sure on that also.
+
+
+### Day 27: May-09-18 Wednesday 
+**Today's Progress**: Learned a new Design Pattern today. 'Visitor Pattern'. I really enjoyed getting to know about this.
+
+**Thoughts**: Now as we atleast have some idea about the css part, started looking into the Auth part. Trying to find a way to seperate the Auth entirely from the app.
