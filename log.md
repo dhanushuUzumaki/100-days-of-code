@@ -168,3 +168,11 @@
 **Today's Progress**: Learned a new Design Pattern today. 'Visitor Pattern'. I really enjoyed getting to know about this.
 
 **Thoughts**: Now as we atleast have some idea about the css part, started looking into the Auth part. Trying to find a way to seperate the Auth entirely from the app.
+
+
+### Day 28: May-10-18 Thursday 
+**Today's Progress**: Tried to set up a simple todo app in docker following a medium article and succeeded. Also came up with an approach for Auth but have to discuss with some more people to figure out if it will actually work.
+
+**Thoughts**: The idea is to have a react component that will hand all the auth stuff itself including the server calls and everything.
+
+**Link To Work**: [MERN - Docker](https://medium.com/codebase/mern-ep01-setting-up-a-development-environment-with-docker-1bb0b6e4d464)
