@@ -176,3 +176,9 @@
 **Thoughts**: The idea is to have a react component that will hand all the auth stuff itself including the server calls and everything.
 
 **Link To Work**: [MERN - Docker](https://medium.com/codebase/mern-ep01-setting-up-a-development-environment-with-docker-1bb0b6e4d464)
+
+
+### Day 29: May-11-18 Friday 
+**Today's Progress**: Worked on setting up on basic GraphQL server and wrote basic CRUD APIs.
+
+**Thoughts**: Should start with Prisma tomorrow. Added logs for the whole past week.
