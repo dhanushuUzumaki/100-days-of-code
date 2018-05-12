@@ -182,3 +182,9 @@
 **Today's Progress**: Worked on setting up on basic GraphQL server and wrote basic CRUD APIs.
 
 **Thoughts**: Should start with Prisma tomorrow. Added logs for the whole past week.
+
+
+### Day 30: May-12-18 Saturday 
+**Today's Progress**: Added prisma to the GraphQL Server and repeated the same thing as yesterday.
+
+**Thoughts**: Using [howtographql](https://www.howtographql.com/) to learn these.
