@@ -188,3 +188,8 @@
 **Today's Progress**: Added prisma to the GraphQL Server and repeated the same thing as yesterday.
 
 **Thoughts**: Using [howtographql](https://www.howtographql.com/) to learn these.
+
+### Day 31: May-13-18 Sunday 
+**Today's Progress**: Read articles about schema stiching and schema merging in graphQL now Clearly understood how prisma works. 
+
+**Thoughts**: Should complete the remaing things in this (pagination, filtering) and start with the client side of things. Should try to set up a basic codebase by this weekend.
