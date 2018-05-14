@@ -193,3 +193,11 @@
 **Today's Progress**: Read articles about schema stiching and schema merging in graphQL now Clearly understood how prisma works. 
 
 **Thoughts**: Should complete the remaing things in this (pagination, filtering) and start with the client side of things. Should try to set up a basic codebase by this weekend.
+
+
+### Day 32: May-14-18 Monday 
+**Today's Progress**: Added basic scaffolding with docker and graphql for journal. 
+
+**Thoughts**: Should finish with the Prisma things and client side of things tommorrow. Said the same thing yesterday also.. :( 
+
+**Link To Work**: [Journal - Today's Commit](https://github.com/dhanushuUzumaki/Journal/commit/c99c98926b0a646c26e8b9d7c78e99b7ef10c0ee)
