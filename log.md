@@ -201,3 +201,11 @@
 **Thoughts**: Should finish with the Prisma things and client side of things tommorrow. Said the same thing yesterday also.. :( 
 
 **Link To Work**: [Journal - Today's Commit](https://github.com/dhanushuUzumaki/Journal/commit/c99c98926b0a646c26e8b9d7c78e99b7ef10c0ee)
+
+
+### Day 33: May-15-18 Tuesday 
+**Today's Progress**: Managed to setup a local postgres db and connect to it through prisma. Added this to journal's scaffolding also. 
+
+**Thoughts**: But unable to start app graphql server. Posted about it on prisma fourm. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/bc3e2ffa4080bf9fa18ad13836635a91a1935d9a)
