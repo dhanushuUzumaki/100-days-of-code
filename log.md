@@ -209,3 +209,11 @@
 **Thoughts**: But unable to start app graphql server. Posted about it on prisma fourm. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/bc3e2ffa4080bf9fa18ad13836635a91a1935d9a)
+
+
+### Day 34: May-16-18 Wednesday 
+**Today's Progress**: Fixed the issue I was facing yesterday. II didn't import the generated schema.. That was the reason for it. But now facing another issue. 
+
+**Thoughts**: I am able to access the prisma server directly and run queries but when I try to do it using the app's graphql server, it says unable to connect to prisma graphql server and fails. Asked for help in prisma forum and stackoverflow. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/c88e37cf26f4b80977f08c7662ddf3346d8fa345)
