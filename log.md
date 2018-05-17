@@ -217,3 +217,11 @@
 **Thoughts**: I am able to access the prisma server directly and run queries but when I try to do it using the app's graphql server, it says unable to connect to prisma graphql server and fails. Asked for help in prisma forum and stackoverflow. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/c88e37cf26f4b80977f08c7662ddf3346d8fa345)
+
+
+### Day 35: May-17-18 Thursday 
+**Today's Progress**: Followed howtographql and tried out setting up local auth and started off with subscriptions. 
+
+**Thoughts**: Also got help from prisma forum to solve the ECONNREFUSED error. Its because of the fact the localhost inside a container points to the container as such.. I have to use the service name with its port to access it. Now its working. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/5387d9f337f7c4ca162866b8fe8bb8409cfabdd7)
