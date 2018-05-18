@@ -225,3 +225,9 @@
 **Thoughts**: Also got help from prisma forum to solve the ECONNREFUSED error. Its because of the fact the localhost inside a container points to the container as such.. I have to use the service name with its port to access it. Now its working. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/5387d9f337f7c4ca162866b8fe8bb8409cfabdd7)
+
+
+### Day 36: May-18-18 Friday 
+**Today's Progress**: Completed the nodejs - graphql tuts on howtographql. 
+
+**Thoughts**: Followed and implemented subscription, filtering, pagination and sorting on a dummy project.
