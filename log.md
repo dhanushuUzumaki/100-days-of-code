@@ -231,3 +231,9 @@
 **Today's Progress**: Completed the nodejs - graphql tuts on howtographql. 
 
 **Thoughts**: Followed and implemented subscription, filtering, pagination and sorting on a dummy project.
+
+
+### Day 37: May-19-18 Saturday 
+**Today's Progress**: Started with react + appolo client on howtographql. 
+
+**Thoughts**: Also tried to have a bootstrap script for the graphql server in docker and run it.. but was having some issues. Asusual i must have missed something. should try to fix it tomorrow.
