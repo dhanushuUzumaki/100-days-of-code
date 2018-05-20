@@ -237,3 +237,11 @@
 **Today's Progress**: Started with react + appolo client on howtographql. 
 
 **Thoughts**: Also tried to have a bootstrap script for the graphql server in docker and run it.. but was having some issues. Asusual i must have missed something. should try to fix it tomorrow.
+
+
+### Day 38: May-20-18 Sunday 
+**Today's Progress**: Created a PR for basic graphql and prisma set up along with docker. 
+
+**Thoughts**: Updated docker-compose.yml, prisma and graphql configs to used env variables. Added babel, linting and husky. 
+
+**Link To Work**: [add: scaffolding for docker, graphql and babel, lint #1](https://github.com/dhanushuUzumaki/Journal/pull/1)
