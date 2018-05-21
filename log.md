@@ -245,3 +245,11 @@
 **Thoughts**: Updated docker-compose.yml, prisma and graphql configs to used env variables. Added babel, linting and husky. 
 
 **Link To Work**: [add: scaffolding for docker, graphql and babel, lint #1](https://github.com/dhanushuUzumaki/Journal/pull/1)
+
+
+### Day 39: May-21-18 Monday 
+**Today's Progress**: Added graphdoc for static documentation and apollo engine for monitoring to journal. 
+
+**Thoughts**: Tried to set up reverse proxy using traefik. But it's not working as expected. Asked in their slack channel and also in stackoverflow. Hope someone helps me with this. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/8e64c39f1ae9820544b9b62f74759225bee1a30e)
