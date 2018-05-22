@@ -253,3 +253,11 @@
 **Thoughts**: Tried to set up reverse proxy using traefik. But it's not working as expected. Asked in their slack channel and also in stackoverflow. Hope someone helps me with this. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/8e64c39f1ae9820544b9b62f74759225bee1a30e)
+
+
+### Day 40: May-22-18 Tuesday 
+**Today's Progress**: I wasn't able to identify what is wrong with traefik.. Then got help from michael (traefik maintainer). We spent almost 1-2 hours or more trying to identify what is going wrong, but we couldn't. So we called it a day. Should try to fix it tomorrow.
+
+**Thoughts**: I never thought I could get this much help non-commercially. Traefik is really awesome. 🎉 💯
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/8e64c39f1ae9820544b9b62f74759225bee1a30e)
