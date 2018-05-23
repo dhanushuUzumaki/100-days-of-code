@@ -261,3 +261,11 @@
 **Thoughts**: I never thought I could get this much help non-commercially. Traefik is really awesome. 🎉 💯
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/8e64c39f1ae9820544b9b62f74759225bee1a30e)
+
+
+### Day 41: May-23-18 Wednesday 
+**Today's Progress**: Somehow.. I managed to get both the traefik dashboard and graphql server running parallely (that was not working yesterday. and its not a port issue).. I don't know why it didn't work yesterday and why it is working today.. maybe somemore digging will help but I stopped there.. but still traefik proxy is not working as expected. 
+
+**Thoughts**: Messaged michael for help again.. Hope he replies 🤞 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/088a1fe8425c1acbd9e5ba09e6b42932703480c4)
