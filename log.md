@@ -269,3 +269,9 @@
 **Thoughts**: Messaged michael for help again.. Hope he replies 🤞 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/088a1fe8425c1acbd9e5ba09e6b42932703480c4)
+
+
+### Day 42: May-24-18 Thursday 
+**Today's Progress**: Michael helped again today. We got it working. https://api.journal.com is now successfully redirecting to my http graphql server in local. 
+
+**Thoughts**: Reviewed one of my friend's code. Reviewed with what I knwo.. might have been stupid also.. :D
