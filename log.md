@@ -275,3 +275,9 @@
 **Today's Progress**: Michael helped again today. We got it working. https://api.journal.com is now successfully redirecting to my http graphql server in local. 
 
 **Thoughts**: Reviewed one of my friend's code. Reviewed with what I knwo.. might have been stupid also.. :D
+
+
+### Day 43: May-25-18 Friday 
+**Today's Progress**: Continued with the client side of graphql in howtographql.com. 
+
+**Thoughts**: Also had whole day mulesoft training session in office and learned a lot of things... :) so happy <3
