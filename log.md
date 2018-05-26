@@ -281,3 +281,9 @@
 **Today's Progress**: Continued with the client side of graphql in howtographql.com. 
 
 **Thoughts**: Also had whole day mulesoft training session in office and learned a lot of things... :) so happy <3
+
+
+### Day 44: May-26-18 Saturday 
+**Today's Progress**: Had a full day training on mulesoft at office. Reviewed the mockups of journal with ganesh.
+
+**Thoughts**: Spent some time on reading about apollo-client apart from howtographql.
