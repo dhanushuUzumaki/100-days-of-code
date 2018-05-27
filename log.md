@@ -287,3 +287,9 @@
 **Today's Progress**: Had a full day training on mulesoft at office. Reviewed the mockups of journal with ganesh.
 
 **Thoughts**: Spent some time on reading about apollo-client apart from howtographql.
+
+
+### Day 45: May-27-18 Sunday 
+**Today's Progress**: Explained what I have done so far in terms of scaffolding and configs to two people and spent some more time on howtogqphql's frontend track. 
+
+**Thoughts**: Watched some of wes bos's videos
