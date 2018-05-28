@@ -293,3 +293,11 @@
 **Today's Progress**: Explained what I have done so far in terms of scaffolding and configs to two people and spent some more time on howtogqphql's frontend track. 
 
 **Thoughts**: Watched some of wes bos's videos
+
+
+### Day 46: May-28-18 Monday 
+**Today's Progress**: Added winston and morgan logging to journal. 
+
+**Thoughts**: Saw some pwa videos from google. 
+
+**Link To Work**: [Journal - Today's Commit](https://github.com/dhanushuUzumaki/Journal/commit/3e84a854cc6c8325d4490ccd4541f34e9186342e)
