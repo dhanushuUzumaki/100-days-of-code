@@ -301,3 +301,9 @@
 **Thoughts**: Saw some pwa videos from google. 
 
 **Link To Work**: [Journal - Today's Commit](https://github.com/dhanushuUzumaki/Journal/commit/3e84a854cc6c8325d4490ccd4541f34e9186342e)
+
+
+### Day 47: May-29-18 Tuesday 
+**Today's Progress**: Completed the frontend part on howtographql. 
+
+**Thoughts**: Feel like lot of the things are managed by apollo packages. Should start with the react-client scaffolding of journal tomorrow.
