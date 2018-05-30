@@ -307,3 +307,11 @@
 **Today's Progress**: Completed the frontend part on howtographql. 
 
 **Thoughts**: Feel like lot of the things are managed by apollo packages. Should start with the react-client scaffolding of journal tomorrow.
+
+
+### Day 48: May-30-18 Wednesday 
+**Today's Progress**: Read a very interesting article about code readability, followed by another article on certain es7 and js features. 
+
+**Thoughts**: Started off with the client side implementation of journal also.. but confused whether we need all those apollo packages or can we do it ourselves. Should contemplate on it for some more time. Hope to have the complete scaffolding ready by friday eve. 
+
+**Link To Work**: [Psychology of code readability - Egon Elbre](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
