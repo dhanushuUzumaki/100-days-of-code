@@ -315,3 +315,9 @@
 **Thoughts**: Started off with the client side implementation of journal also.. but confused whether we need all those apollo packages or can we do it ourselves. Should contemplate on it for some more time. Hope to have the complete scaffolding ready by friday eve. 
 
 **Link To Work**: [Psychology of code readability - Egon Elbre](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
+
+
+### Day 49: May-31-18 Thursday 
+**Today's Progress**: Started off with the client side of journal.
+
+**Thoughts**: Used generator-uzumaki for basic scaffolding and tried adding apollo and realted to it. but things weren't working as expected. Not sure whether it's something to do with docker networking or something else.
