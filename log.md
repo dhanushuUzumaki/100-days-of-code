@@ -321,3 +321,9 @@
 **Today's Progress**: Started off with the client side of journal.
 
 **Thoughts**: Used generator-uzumaki for basic scaffolding and tried adding apollo and realted to it. but things weren't working as expected. Not sure whether it's something to do with docker networking or something else.
+
+
+### Day 50: Jun-01-18 Friday 
+**Today's Progress**: Continued what I was doing yesterday. Still haven't found the root cause of the issue. Maybe I should add wait-for-it to this also but that doesn't make any sense. :( 
+
+**Thoughts**: Should complete all this before tomorrow evening and start backlog grooming. Hope all this is resolved and have some working scaffolding in place.
