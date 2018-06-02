@@ -327,3 +327,11 @@
 **Today's Progress**: Continued what I was doing yesterday. Still haven't found the root cause of the issue. Maybe I should add wait-for-it to this also but that doesn't make any sense. :( 
 
 **Thoughts**: Should complete all this before tomorrow evening and start backlog grooming. Hope all this is resolved and have some working scaffolding in place.
+
+
+### Day 51: Jun-02-18 Saturday 
+**Today's Progress**: Removed all the code from react client and started to set it up again. Migrated it to webpack 4 but faced some issues with webpack-dev-server. So wreported it and merged the code to develop. 
+
+**Thoughts**: Explained the current code base to the guys and the fix for webpack-dev-server has been merged should pull that after being published. 
+
+**Link To Work**: [Journal - Develop](https://github.com/dhanushuUzumaki/Journal)
