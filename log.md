@@ -335,3 +335,9 @@
 **Thoughts**: Explained the current code base to the guys and the fix for webpack-dev-server has been merged should pull that after being published. 
 
 **Link To Work**: [Journal - Develop](https://github.com/dhanushuUzumaki/Journal)
+
+
+### Day 52: Jun-03-18 Sunday 
+**Today's Progress**: Got the webpack dev server working.. webpack-cli released a patch to fix the issue.
+
+**Thoughts**: Also started looking to passing env variables to build and deploying prisma on running the container. Tried installing prisma globally and doing things but that doesn't work as expected. Also having some problem with node-sass in the container. 🌋
