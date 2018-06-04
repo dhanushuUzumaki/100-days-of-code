@@ -341,3 +341,10 @@
 **Today's Progress**: Got the webpack dev server working.. webpack-cli released a patch to fix the issue.
 
 **Thoughts**: Also started looking to passing env variables to build and deploying prisma on running the container. Tried installing prisma globally and doing things but that doesn't work as expected. Also having some problem with node-sass in the container. 🌋
+
+### Day 53: Jun-04-18 Monday 
+**Today's Progress**: Successfully passed env varibles into build and created a env file for prisma to use in the container but connecting that to the running service seems difficult.. host.docker.internal is not resolved during build. May be I am missing something. Also set up a rds and connected to prisma and it worked 🍾 
+
+**Thoughts**: Still haven't touched the react-client side of things.. should have kept it with what I had.. started to rewrite it and all hell is lose now :( But hoping to have the whole things neatly done by this weekend.. It's already delayed. :( 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/175930a1098d1174973cd19e1b3aba39ba77bd0c)
