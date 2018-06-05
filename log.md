@@ -348,3 +348,11 @@
 **Thoughts**: Still haven't touched the react-client side of things.. should have kept it with what I had.. started to rewrite it and all hell is lose now :( But hoping to have the whole things neatly done by this weekend.. It's already delayed. :( 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/175930a1098d1174973cd19e1b3aba39ba77bd0c)
+
+
+### Day 54: Jun-05-18 Tuesday 
+**Today's Progress**: Made changes to the dockerfile and compose file. Made changes to run prisma deploy when docker container is started. 
+
+**Thoughts**: Got to learn some pretty intersting things about docker volumes and how they affect certain things. Stumbled on an excellent article which explained all these. 
+
+**Link To Work**: [Journal - Today's Commit](https://github.com/dhanushuUzumaki/Journal/commit/05dd746adbf5753f0f16d7c5588e08d0fccf262a)
