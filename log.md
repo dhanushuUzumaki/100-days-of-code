@@ -356,3 +356,11 @@
 **Thoughts**: Got to learn some pretty intersting things about docker volumes and how they affect certain things. Stumbled on an excellent article which explained all these. 
 
 **Link To Work**: [Journal - Today's Commit](https://github.com/dhanushuUzumaki/Journal/commit/05dd746adbf5753f0f16d7c5588e08d0fccf262a)
+
+
+### Day 55: Jun-06-18 Wednesday 
+**Today's Progress**: Worked on journal, setting up travis build and test, docker auto builds (not working). 
+
+**Thoughts**: Rewrote the configs for react client, changed scaffloding and added jest for testing and tested all together with travis. :) So Happy. 
+
+**Link To Work**: [Journal - Today's Commits](https://github.com/dhanushuUzumaki/Journal/tree/f7fd99301c693317d469bb16aa9cc541c8ae7c52)
