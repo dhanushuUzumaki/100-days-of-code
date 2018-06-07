@@ -364,3 +364,11 @@
 **Thoughts**: Rewrote the configs for react client, changed scaffloding and added jest for testing and tested all together with travis. :) So Happy. 
 
 **Link To Work**: [Journal - Today's Commits](https://github.com/dhanushuUzumaki/Journal/tree/f7fd99301c693317d469bb16aa9cc541c8ae7c52)
+
+
+### Day 56: Jun-07-18 Thursday 
+**Today's Progress**: Added Input and nav component to journal. This is to set up a basic scaffolding only.. Too much time is spent on the scaffolding rather than the actual app. Hoping to completely wrap this up this week. 
+
+**Thoughts**: Used a scotch.io article for input component and nav component is from a pen. Should set up router and redux and integrate with graphql. Also should make some progress on the docker auto build. Stackoverflow answers for my question result in the fact that docker-compose can't be used on autobuilds.. but I am still looking out. If it's not possible should add configuration for building them seperately in docker-hub. 
+
+**Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/tree/559d1a8eb5546ff0ce9c79dd9127e3e3110f794f)
