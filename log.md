@@ -372,3 +372,11 @@
 **Thoughts**: Used a scotch.io article for input component and nav component is from a pen. Should set up router and redux and integrate with graphql. Also should make some progress on the docker auto build. Stackoverflow answers for my question result in the fact that docker-compose can't be used on autobuilds.. but I am still looking out. If it's not possible should add configuration for building them seperately in docker-hub. 
 
 **Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/tree/559d1a8eb5546ff0ce9c79dd9127e3e3110f794f)
+
+
+### Day 57: Jun-08-18 Friday 
+**Today's Progress**: Spent some time on journal, trying to add events to input component.. but clearly missing something and things are not working as expected. Setting the state makes the value to be same no matter what I type. But I have done similar things earlier and they were working fine. 
+
+**Thoughts**: Also spent some time on watching egghead.io's videos on react 16. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/tree/6408414b43d4a336c63c0b2cdae3563bd58ca2bd)
