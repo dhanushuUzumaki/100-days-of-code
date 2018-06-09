@@ -380,3 +380,11 @@
 **Thoughts**: Also spent some time on watching egghead.io's videos on react 16. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/tree/6408414b43d4a336c63c0b2cdae3563bd58ca2bd)
+
+
+### Day 58: Jun-09-18 Saturday 
+**Today's Progress**: Fixed the input component. Completed the UI part of things. Should add redux router and apollo client tomorrow. Adding graphql for this won't be that much of a thing. 
+
+**Thoughts**: Almost positive on completing this tomorrow. 
+
+**Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/tree/a15fd38ec1b5ff3ef6a217b34985bda74eb2a79f)
