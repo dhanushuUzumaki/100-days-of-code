@@ -388,3 +388,11 @@
 **Thoughts**: Almost positive on completing this tomorrow. 
 
 **Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/tree/a15fd38ec1b5ff3ef6a217b34985bda74eb2a79f)
+
+
+### Day 59: Jun-10-18 Sunday 
+**Today's Progress**: Added redux and graphql integration to react-client. updated graphql schema for todo. 
+
+**Thoughts**: Completing the features of this, adding router and some clean up are pending. But these can be done easily except for the router part, but I have already done it once so hoping to do it sooner. Should've completed all these today itself but b faieled cos of a stupid mistake I made in docker-compose.yml.. :( 
+
+**Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/tree/a9ae2292ca7c1069e3110ff66508791991f004f9)
