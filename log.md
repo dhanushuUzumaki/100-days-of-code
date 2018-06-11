@@ -396,3 +396,11 @@
 **Thoughts**: Completing the features of this, adding router and some clean up are pending. But these can be done easily except for the router part, but I have already done it once so hoping to do it sooner. Should've completed all these today itself but b faieled cos of a stupid mistake I made in docker-compose.yml.. :( 
 
 **Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/tree/a9ae2292ca7c1069e3110ff66508791991f004f9)
+
+
+### Day 60: Jun-11-18 Monday 
+**Today's Progress**: Updated react client to use graphql operations instead of the previous redux dispatches. 
+
+**Thoughts**: Added add and delete operations and handle local store update too. Pending is complete and adding router to display deleted items. If that's also done, then I have something that works end to end :) 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/91999ed579c1522ff6a02457573182ad8275d6a6)
