@@ -404,3 +404,11 @@
 **Thoughts**: Added add and delete operations and handle local store update too. Pending is complete and adding router to display deleted items. If that's also done, then I have something that works end to end :) 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/91999ed579c1522ff6a02457573182ad8275d6a6)
+
+
+### Day 61: Jun-12-18 Tuesday 
+**Today's Progress**: Added routing and all functionalities for the scaffolding. 
+
+**Thoughts**: Having some issues with prisma when run through docker on react-client. Have asked in prisma forum. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/tree/53182c928fed79ceab10f1260fbcb02615495d3e)
