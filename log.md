@@ -412,3 +412,11 @@
 **Thoughts**: Having some issues with prisma when run through docker on react-client. Have asked in prisma forum. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/tree/53182c928fed79ceab10f1260fbcb02615495d3e)
+
+
+### Day 62: Jun-13-18 Wednesday 
+**Today's Progress**: Made changes to use config file approach for react-client and graphql-server. Also successfully set up autobuild for both of them. 
+
+**Thoughts**: Created two docker-compose.yml files, one for development with build and volumes and the other one for deploying using images from docker hub. Felt so happy when I saw it working. 
+
+**Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/pull/3/commits/a347ed667efd990d18525a82cdd73ee9dc5e6e46)
