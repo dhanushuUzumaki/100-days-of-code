@@ -420,3 +420,11 @@
 **Thoughts**: Created two docker-compose.yml files, one for development with build and volumes and the other one for deploying using images from docker hub. Felt so happy when I saw it working. 
 
 **Link To Work**: [Journal - Today's commits](https://github.com/dhanushuUzumaki/Journal/pull/3/commits/a347ed667efd990d18525a82cdd73ee9dc5e6e46)
+
+
+### Day 63: Jun-14-18 Thursday 
+**Today's Progress**: Read some docs and articles and tried to set up ecr with the following images, but nothing successfull so far. :( 
+
+**Thoughts**: Also now thinking whether it was the right move to set up docker autobuild.. cos, if travis is going to do the deployment, it will do it as soon as the set branch is updated, but latest image won't be available on docker hub at that moment cause that's when docker also will start the build process.. so planning to move the docker build part also to travis.. but I do learned couple of intrinsic docker things by doing that.. :) 
+
+**Link To Work**: [Hoping to follow this article tomorrow.](https://medium.com/@mlbors/setting-up-a-workflow-with-docker-github-travis-and-aws-b0963686cc3c)
