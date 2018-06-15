@@ -428,3 +428,9 @@
 **Thoughts**: Also now thinking whether it was the right move to set up docker autobuild.. cos, if travis is going to do the deployment, it will do it as soon as the set branch is updated, but latest image won't be available on docker hub at that moment cause that's when docker also will start the build process.. so planning to move the docker build part also to travis.. but I do learned couple of intrinsic docker things by doing that.. :) 
 
 **Link To Work**: [Hoping to follow this article tomorrow.](https://medium.com/@mlbors/setting-up-a-workflow-with-docker-github-travis-and-aws-b0963686cc3c)
+
+
+### Day 64: Jun-15-18 Friday 
+**Today's Progress**: Read through aws docs and did something stupid, nothing is working as of now.
+
+**Thoughts**: Didn't follow the article I said I will be following, found some other article and tried that but did something wrong. And faced some trouble with rds, out of the blue the inbound cidrp's were changed.. took some time to figure out that was the issue.
