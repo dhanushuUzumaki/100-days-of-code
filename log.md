@@ -434,3 +434,9 @@
 **Today's Progress**: Read through aws docs and did something stupid, nothing is working as of now.
 
 **Thoughts**: Didn't follow the article I said I will be following, found some other article and tried that but did something wrong. And faced some trouble with rds, out of the blue the inbound cidrp's were changed.. took some time to figure out that was the issue.
+
+
+### Day 65: Jun-16-18 Saturday 
+**Today's Progress**: Create a EB app in aws and wrote Dockerrun.aws.json but stuck at nested env for prisma, I thought I was doing good but suddenly the json color changed even though it's a valid json.. too tired to debug it, so left for tomorrow 
+
+**Thoughts**: Trying to use this and deploy from local first, then I can go ahead and update travis.yml to do the same.. one step at a time.. :)
