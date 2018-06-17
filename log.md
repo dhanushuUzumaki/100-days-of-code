@@ -440,3 +440,11 @@
 **Today's Progress**: Create a EB app in aws and wrote Dockerrun.aws.json but stuck at nested env for prisma, I thought I was doing good but suddenly the json color changed even though it's a valid json.. too tired to debug it, so left for tomorrow 
 
 **Thoughts**: Trying to use this and deploy from local first, then I can go ahead and update travis.yml to do the same.. one step at a time.. :)
+
+
+### Day 66: Jun-17-18 Sunday 
+**Today's Progress**: Updated dockerrun.aws.json to deploy only react-client. But deployment is failing. Unable to find the logs. 
+
+**Thoughts**: Image is being pulled and it is failing during startup, should figure out why.. 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/725bf8c0ff32a45312a4dcb60620b278f71ec8ce)
