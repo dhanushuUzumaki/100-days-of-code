@@ -448,3 +448,13 @@
 **Thoughts**: Image is being pulled and it is failing during startup, should figure out why.. 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/725bf8c0ff32a45312a4dcb60620b278f71ec8ce)
+
+
+### Day 67: Jun-18-18 Monday 
+
+Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, dozzed off immediately. 😢
+
+
+### Day 68: Jun-19-18 Tuesday 
+
+**Today's Progress**: Should have looked into EB deployment issue but watched videos explaining block chain and read an article about block chain on EHR, for office hackathon.
