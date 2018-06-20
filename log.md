@@ -458,3 +458,10 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 ### Day 68: Jun-19-18 Tuesday 
 
 **Today's Progress**: Should have looked into EB deployment issue but watched videos explaining block chain and read an article about block chain on EHR, for office hackathon.
+
+### Day 69: Jun-20-18 Wednesday 
+**Today's Progress**: Found that the issue with deployment in EB was with the command as such.. initially I didn't even had the command but adding sh script caused some other problems so added a npm script and it worked. 
+
+**Thoughts**: Still unable to access the app as EB only supports port 80 and for any other port forwarding we have to use load balancer, wanted to use traefik but had a lot of doubts regarding that so commented on a existing StackOverflow question asking for info and also asked on traefik's slack chanel.. go some input and should try that tomorrow, For now, tried adding a load balancer and added port forwarding waiting for the results :fingerscrossed: 
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/725bf8c0ff32a45312a4dcb60620b278f71ec8ce)
