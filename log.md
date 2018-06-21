@@ -465,3 +465,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Still unable to access the app as EB only supports port 80 and for any other port forwarding we have to use load balancer, wanted to use traefik but had a lot of doubts regarding that so commented on a existing StackOverflow question asking for info and also asked on traefik's slack chanel.. go some input and should try that tomorrow, For now, tried adding a load balancer and added port forwarding waiting for the results :fingerscrossed: 
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/725bf8c0ff32a45312a4dcb60620b278f71ec8ce)
+
+
+### Day 70: Jun-21-18 Thursday 
+**Today's Progress**: Failed misserably with the load balancer.. even if I configure it to check for particular port health check is failing.. :( 
+
+**Thoughts**: Watched some videos and read some tuts with respect to ecs.. will try to fix these things with eb for maybe one or two days.. after that will move over to ecs and try that out..
