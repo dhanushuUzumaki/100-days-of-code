@@ -471,3 +471,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Failed misserably with the load balancer.. even if I configure it to check for particular port health check is failing.. :( 
 
 **Thoughts**: Watched some videos and read some tuts with respect to ecs.. will try to fix these things with eb for maybe one or two days.. after that will move over to ecs and try that out..
+
+
+### Day 71: Jun-22-18 Friday 
+**Today's Progress**: Spent some more time with EB and digged around, seems like ECS is solely designed for this purpose, so started looking into it. 
+
+**Thoughts**: Played around with sample app on ecs to understand the basics.
