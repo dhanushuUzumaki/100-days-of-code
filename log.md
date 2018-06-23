@@ -477,3 +477,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Spent some more time with EB and digged around, seems like ECS is solely designed for this purpose, so started looking into it. 
 
 **Thoughts**: Played around with sample app on ecs to understand the basics.
+
+
+### Day 72: Jun-23-18 Saturday 
+**Today's Progress**: Successfully deployed react-client in ecs and is accessible now. Trying to set up graphql, prisma and traefik similarly but having some doubts with respect to nested prisma configs, so asked about them in prisma's forum.
+
+**Thoughts**: For now it is deployed in [here](http://ec2-18-191-242-108.us-east-2.compute.amazonaws.com:3000/), but not sure for how long. :slightly_smiling_face:
+
+**Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/5e98b90394705fa7f2809fdaf1f075b6a0328672)
