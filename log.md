@@ -485,3 +485,10 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: For now it is deployed in [here](http://ec2-18-191-242-108.us-east-2.compute.amazonaws.com:3000/), but not sure for how long. :slightly_smiling_face:
 
 **Link To Work**: [Journal - Today's commit](https://github.com/dhanushuUzumaki/Journal/commit/5e98b90394705fa7f2809fdaf1f075b6a0328672)
+
+### Day 73: Jun-24-18 Sunday 
+**Today's Progress**: Wanted to try something fun as it was pretty tiring looking at aws for the past week, so followed a tutorial video by freecodecamp on Atari Asteroid game. 
+
+**Thoughts**: Didn't understand the math part of it but getting a good idea about canvas. Earlier when I used canvas for game of life or maze creation it was all trial and error. Posted a comment on the video asking if it 's possible for them to teach the math also. :grimacing: 
+
+**Link To Work**: [Atari Asteroid - Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/dbf811c59e84293eba32e8ae5f5fab0264a39082)
