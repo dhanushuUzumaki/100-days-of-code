@@ -492,3 +492,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Didn't understand the math part of it but getting a good idea about canvas. Earlier when I used canvas for game of life or maze creation it was all trial and error. Posted a comment on the video asking if it 's possible for them to teach the math also. :grimacing: 
 
 **Link To Work**: [Atari Asteroid - Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/dbf811c59e84293eba32e8ae5f5fab0264a39082)
+
+
+### Day 74: Jun-25-18 Monday 
+**Today's Progress**: Continued on with atari asteroids. Added collision detection. 
+
+**Thoughts**: Helped Ganesh in setting up journal locally. 
+
+**Link To Work**: [Today's commit - Atari Asteroid](https://github.com/dhanushuUzumaki/atari-asteroids/commit/7175d08585dd7d7aa2ad18c22048bcf3b58f5ee0)
