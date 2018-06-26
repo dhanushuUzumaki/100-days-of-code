@@ -500,3 +500,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Helped Ganesh in setting up journal locally. 
 
 **Link To Work**: [Today's commit - Atari Asteroid](https://github.com/dhanushuUzumaki/atari-asteroids/commit/7175d08585dd7d7aa2ad18c22048bcf3b58f5ee0)
+
+
+### Day 75: Jun-26-18 Tuesday 
+**Today's Progress**: Was exploring api and sdk services for block chain. Didn't get much but found a lot of interesting things. 
+
+**Thoughts**: Added invinciblity to asteroids. Should have done that yesterday itself but missed. 
+
+**Link To Work**: [Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/f88a9e47aacc0186a8ee034ef99bd4c21ca0e877)
