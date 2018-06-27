@@ -508,3 +508,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Added invinciblity to asteroids. Should have done that yesterday itself but missed. 
 
 **Link To Work**: [Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/f88a9e47aacc0186a8ee034ef99bd4c21ca0e877)
+
+
+### Day 76: Jun-27-18 Wednesday 
+**Today's Progress**: was looking into adding push notification to a PWA. 
+
+**Thoughts**: Its for office hackathon. Forgot everything about sw .. got push notification working on system. fpr mobile trying to do it with remote debugging on chrome. But no luck so far.
