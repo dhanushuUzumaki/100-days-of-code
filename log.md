@@ -514,3 +514,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: was looking into adding push notification to a PWA. 
 
 **Thoughts**: Its for office hackathon. Forgot everything about sw .. got push notification working on system. fpr mobile trying to do it with remote debugging on chrome. But no luck so far.
+
+
+### Day 77: Jun-28-18 Thursday 
+**Today's Progress**: Successfully sent a push notification, spent the whole day on hackathon.
+
+**Thoughts**: Had some troubles with pushmanager promise not resolving and all those things but it worked after deploying in aws with a valid certificate for the site.. but that's one hell of a bug. Ate 2-4 hours of hackathon.
