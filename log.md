@@ -520,3 +520,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Successfully sent a push notification, spent the whole day on hackathon.
 
 **Thoughts**: Had some troubles with pushmanager promise not resolving and all those things but it worked after deploying in aws with a valid certificate for the site.. but that's one hell of a bug. Ate 2-4 hours of hackathon.
+
+
+### Day 78: Jun-29-18 Friday 
+**Today's Progress**: Awake the whole night coding for hacakthon.. 
+
+**Thoughts**: Managed to have a working prototype for EHR on blockchain with push notifications, and several others. It was really fun. Got a seniors huge laptop, blazing music, pizza and code.. enjoyed every moment. 🎉
