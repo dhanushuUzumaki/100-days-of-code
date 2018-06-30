@@ -526,3 +526,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Awake the whole night coding for hacakthon.. 
 
 **Thoughts**: Managed to have a working prototype for EHR on blockchain with push notifications, and several others. It was really fun. Got a seniors huge laptop, blazing music, pizza and code.. enjoyed every moment. 🎉
+
+
+### Day 79: Jun-30-18 Saturday 
+**Today's Progress**: Spent time on GCM for some time, and some PWA concepts.
+
+**Thoughts**: During the demo, only one push notification came after trying for 3-4 times and the next one didn't come no matter what. so was exploring more into it. But nothing useful. Yesterday found that there is some buffer and that's what I got again. Tried out some caching methods and stuff.
