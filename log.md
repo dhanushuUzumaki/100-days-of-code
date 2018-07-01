@@ -532,3 +532,15 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Spent time on GCM for some time, and some PWA concepts.
 
 **Thoughts**: During the demo, only one push notification came after trying for 3-4 times and the next one didn't come no matter what. so was exploring more into it. But nothing useful. Yesterday found that there is some buffer and that's what I got again. Tried out some caching methods and stuff.
+
+
+### Day 80: Jun-30-18 Saturday 
+**Today's Progress**: Spent time on GCM for some time, and some PWA concepts.
+
+**Thoughts**: During the demo, only one push notification came after trying for 3-4 times and the next one didn't come no matter what. so was exploring more into it. But nothing useful. Yesterday found that there is some buffer and that's what I got again. Tried out some caching methods and stuff.
+
+
+### Day 81: Jul-01-18 Sunday 
+**Today's Progress**: Was going through AWS and prisma docs for the env variables.
+
+**Thoughts**: No luck so far, no response from the forum too :(
