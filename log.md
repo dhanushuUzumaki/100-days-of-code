@@ -544,3 +544,10 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Was going through AWS and prisma docs for the env variables.
 
 **Thoughts**: No luck so far, no response from the forum too :(
+
+### Day 82: Jul-02-18 Monday 
+**Today's Progress**: Continued with asteroids. Added lasers. Almost 1 hr pending.. will wrap it up tommorrow and get back to journal.. 
+
+**Thoughts**: Also tweeted prisma asking about the config.. 
+
+**Link To Work**: [Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/ed960902f322b36c0bb8afba275c7dc484788fb3)
