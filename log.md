@@ -551,3 +551,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Also tweeted prisma asking about the config.. 
 
 **Link To Work**: [Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/ed960902f322b36c0bb8afba275c7dc484788fb3)
+
+
+### Day 83: Jul-03-18 Tuesday 
+**Today's Progress**: Completed the asteroids game.. 
+
+**Thoughts**: feeling so happy and learned a lot... didn't understand any math but learned about canvas and how to do things in that.. and afterall there is a working game :D :) 
+
+**Link To Work**: [Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/e77ad1a16f1c13bddec0a4e4e4f479b3f8f3fc5c)
