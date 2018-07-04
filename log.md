@@ -559,3 +559,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: feeling so happy and learned a lot... didn't understand any math but learned about canvas and how to do things in that.. and afterall there is a working game :D :) 
 
 **Link To Work**: [Today's commit](https://github.com/dhanushuUzumaki/atari-asteroids/commit/e77ad1a16f1c13bddec0a4e4e4f479b3f8f3fc5c)
+
+
+### Day 84: Jul-04-18 Wednesday 
+**Today's Progress**: Was working with a colleague on react-context-redux package. 
+
+**Thoughts**: Added jest and rollup and fixed failing builds (failing because of the changes I made).. should add eslint too 
+
+**Link To Work**: [react-context-redux Today's commit](https://github.com/Jefreesujit/react-context-redux/tree/da532978637b8a8758c2075e6b1dfa92ad3bcfba)
