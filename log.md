@@ -567,3 +567,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Added jest and rollup and fixed failing builds (failing because of the changes I made).. should add eslint too 
 
 **Link To Work**: [react-context-redux Today's commit](https://github.com/Jefreesujit/react-context-redux/tree/da532978637b8a8758c2075e6b1dfa92ad3bcfba)
+
+
+### Day 85: Jul-05-18 Thursday 
+**Today's Progress**: Added eslint, prettier to react-context. Upated travis build to have jobs and auto publish. 
+
+**Thoughts**: Still test cases, example, documentation are pending. 
+
+**Link To Work**: [Today's commits (Link to PR)](https://github.com/Jefreesujit/react-context-redux/pull/5/commits)
