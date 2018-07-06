@@ -575,3 +575,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Still test cases, example, documentation are pending. 
 
 **Link To Work**: [Today's commits (Link to PR)](https://github.com/Jefreesujit/react-context-redux/pull/5/commits)
+
+
+### Day 86: Jul-06-18 Friday 
+**Today's Progress**: UMD builds are failing cos of global object and someother things. Was looking into it.
+
+**Thoughts**: Also if I add node-builtins plugin the package size goes up to 69 KB Gziped, not sure why it is needed though.. if I remove it bunch of warnings are there during the build process.
