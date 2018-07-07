@@ -581,3 +581,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: UMD builds are failing cos of global object and someother things. Was looking into it.
 
 **Thoughts**: Also if I add node-builtins plugin the package size goes up to 69 KB Gziped, not sure why it is needed though.. if I remove it bunch of warnings are there during the build process.
+
+
+### Day 87: Jul-07-18 Saturday 
+**Today's Progress**: Identified the source of troubles. It's one of the packages we consumed.. keypather.
+
+**Thoughts**: If I remove it the UMD builds are working perfectly. But I am not able to consume it correctly. When I try to use React.CreateElement on our provider component, its not working as once compiled it is a function.. stuck at this.
