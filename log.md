@@ -587,3 +587,10 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Identified the source of troubles. It's one of the packages we consumed.. keypather.
 
 **Thoughts**: If I remove it the UMD builds are working perfectly. But I am not able to consume it correctly. When I try to use React.CreateElement on our provider component, its not working as once compiled it is a function.. stuck at this.
+
+### Day 88: Jul-08-18 Sunday 
+**Today's Progress**: Found the problem with the way I was doing things.. wrapping our provider with a dummy component did the work. 
+
+**Thoughts**: Added examples and webpack to the pr and got it merged 
+
+**Link To Work**: [Today's commits](https://github.com/Jefreesujit/react-context-redux/pull/5/commits)
