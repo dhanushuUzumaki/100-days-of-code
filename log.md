@@ -594,3 +594,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Added examples and webpack to the pr and got it merged 
 
 **Link To Work**: [Today's commits](https://github.com/Jefreesujit/react-context-redux/pull/5/commits)
+
+
+### Day 89: Jul-09-18 Monday 
+**Today's Progress**: Added community docs to react-context-redux. 
+
+**Thoughts**: Also was working on an issue with jefree regarding test cases.. still unable to figure it out...
