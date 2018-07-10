@@ -600,3 +600,7 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Added community docs to react-context-redux. 
 
 **Thoughts**: Also was working on an issue with jefree regarding test cases.. still unable to figure it out...
+
+
+### Day 90: Jul-10-18 Tuesday 
+**Today's Progress**: Was looking into ways to improve test coverage but we are still not sure on why we are having the issue in the first place.
