@@ -604,3 +604,11 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 
 ### Day 90: Jul-10-18 Tuesday 
 **Today's Progress**: Was looking into ways to improve test coverage but we are still not sure on why we are having the issue in the first place.
+
+
+### Day 91: Jul-11-18 Wednesday 
+**Today's Progress**: Completed the docs, and opened a PR.
+
+**Thoughts**: Tried to squash things but doing something stupid.. now its showing as 27 new commits with all the commits that are already in develop.
+
+**Link To Work**: [react-context-redux PR](https://github.com/Jefreesujit/react-context-redux/pull/11/commits)
