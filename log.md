@@ -612,3 +612,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Thoughts**: Tried to squash things but doing something stupid.. now its showing as 27 new commits with all the commits that are already in develop.
 
 **Link To Work**: [react-context-redux PR](https://github.com/Jefreesujit/react-context-redux/pull/11/commits)
+
+
+### Day 92: Jul-12-18 Thursday 
+**Today's Progress**: Tried fixing the squash mistake. Ended up creating a new branch and copying changes to it and force pushing it.
+
+**Thoughts**: Should've left it as it was.. but still not sure what caused the squash to fail..
