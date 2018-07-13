@@ -618,3 +618,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Tried fixing the squash mistake. Ended up creating a new branch and copying changes to it and force pushing it.
 
 **Thoughts**: Should've left it as it was.. but still not sure what caused the squash to fail..
+
+
+### Day 93: Jul-13-18 Friday 
+**Today's Progress**: spent time with AWS docs again with respect to prisma and journal. 
+
+**Thoughts**: Also have some nice improvement ideas for atari asteroids. So was planning that.
