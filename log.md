@@ -624,3 +624,7 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: spent time with AWS docs again with respect to prisma and journal. 
 
 **Thoughts**: Also have some nice improvement ideas for atari asteroids. So was planning that.
+
+
+### Day 94: Jul-14-18 Saturday 
+**Today's Progress**: Reviewed two PRs from Jefree w.r.t react-context-redux.
