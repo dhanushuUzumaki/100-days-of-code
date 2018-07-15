@@ -628,3 +628,7 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 
 ### Day 94: Jul-14-18 Saturday 
 **Today's Progress**: Reviewed two PRs from Jefree w.r.t react-context-redux.
+
+
+### Day 95: Jul-15-18 Sunday 
+**Today's Progress**: Made changes to atari game with certain style changes and such for a friend to play. he really enjoyed it. 🎊
