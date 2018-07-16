@@ -632,3 +632,9 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 
 ### Day 95: Jul-15-18 Sunday 
 **Today's Progress**: Made changes to atari game with certain style changes and such for a friend to play. he really enjoyed it. 🎊
+
+
+### Day 96: Jul-16-18 Monday 
+**Today's Progress**: Pushed changes to master and hoped TRAVIS auto publish to succeed but it failed cos the npm security issue and having all the tokens cleared.
+
+**Thoughts**: Jefree published it manually but still umd files were missed in the packages. Forgot to add them to the files section of package.json.. 
