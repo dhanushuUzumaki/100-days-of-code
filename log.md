@@ -638,3 +638,7 @@ Didn't code yesterday. Haven't slept and reached home only by 9.15 from office, 
 **Today's Progress**: Pushed changes to master and hoped TRAVIS auto publish to succeed but it failed cos the npm security issue and having all the tokens cleared.
 
 **Thoughts**: Jefree published it manually but still umd files were missed in the packages. Forgot to add them to the files section of package.json.. 
+
+
+### Days 97 - 100
+Didn't do much past week. Out sick and then went on a pilgrimage journey.. Shaved my head and since I only had my phone.. successfully read all the articles that were in my medium bookmarks and pocket's list. Never thought I would miss the last 3 days 😢
